@@ -1,0 +1,3416 @@
+.homeDesktopTabBox ul li.active .hti-icon1,.homeDesktopTabBox ul li:hover .hti-icon1 {
+    background-position: -1px -30px
+}
+
+.homeDesktopTabBox ul li.active .hti-icon2,.homeDesktopTabBox ul li:hover .hti-icon2 {
+    background-position: -40px -30px
+}
+
+.homeDesktopTabBox ul li.active .hti-icon3,.homeDesktopTabBox ul li:hover .hti-icon3 {
+    background-position: -78px -30px
+}
+
+.homeDesktopTabBox ul li.active .hti-icon4,.homeDesktopTabBox ul li:hover .hti-icon4 {
+    background-position: -118px -30px
+}
+
+.homeDesktopTabBox ul li.active .hti-icon5,.homeDesktopTabBox ul li:hover .hti-icon5 {
+    background-position: -156px -30px
+}
+
+.homeDesktopTabBox ul li.active .hti-icon6,.homeDesktopTabBox ul li:hover .hti-icon6 {
+    background-position: -195px -30px
+}
+
+.homeDesktopTabBox ul li.active .hti-icon7,.homeDesktopTabBox ul li:hover .hti-icon7 {
+    background-position: -233px -30px
+}
+
+.homeDesktopTabBox ul li.active .hti-icon8,.homeDesktopTabBox ul li:hover .hti-icon8 {
+    background-position: -272px -30px
+}
+
+.homeDesktopSearchBox ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+    background-color: rgba(255,255,255,.1);
+    position: absolute;
+    z-index: 10000
+}
+
+.homeDesktopSearchBox ::-webkit-scrollbar-thumb {
+    background-color: #bfbfbf;
+    border-radius: 20px
+}
+
+.homeDesktopSearchBox ::-moz-scrollbar {
+    width: 8px;
+    height: 8px;
+    background-color: rgba(255,255,255,.1);
+    position: absolute;
+    z-index: 10000;
+    right: 0
+}
+
+.homeDesktopSearchBox ::-moz-scrollbar-thumb {
+    background-color: #bfbfbf;
+    border-radius: 20px
+}
+
+.homeDesktopSearchBox .dropdown {
+    float: left;
+    position: relative
+}
+
+.homeDesktopSearchBox .dropdown.budget .dropdown-menu {
+    width: 205px
+}
+
+.homeDesktopSearchBox .dropdown.budget.listingType .dropdown-menu {
+    width: 155px
+}
+
+.homeDesktopSearchBox .dropdown-menu .contentBox {
+    padding: 10px 15px;
+    margin-right: 5px;
+    max-height: 350px;
+    overflow: hidden;
+    overflow-y: auto;
+    display: block
+}
+
+.homeDesktopSearchBox .dropdown.active .dropdown-menu,.homeDesktopSearchBox .dropdown:hover .dropdown-menu {
+    display: block;
+    transition: .3s
+}
+
+.homeDesktopSearchBox .dropdown.more .dropdown-menu .contentBox {
+    width: 160px;
+    text-align: left
+}
+
+.homeDesktopSearchBox .dropdown.more .dropdown-menu strong {
+    padding: 0 0 3px;
+    margin: 0 0 3px;
+    display: block;
+    border-bottom: 1px solid #e0e0e0;
+    font-weight: 600;
+    color: #333
+}
+
+.homeDesktopSearchBox .rangeBox {
+    display: flex;
+    position: relative;
+    width: 100%
+}
+
+.homeDesktopSearchBox .rangeBox.fixed {
+    position: sticky;
+    top: -12px;
+    z-index: 1;
+    background: #fff;
+    margin: -12px -15px 0;
+    padding: 15px 15px 0;
+    width: 200px
+}
+
+.homeDesktopSearchBox .rangeBox.fixed::after {
+    margin: 0 auto;
+    width: 8px;
+    height: 1px;
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 33px;
+    background: #666
+}
+
+.homeDesktopSearchBox .rangeBox input {
+    padding: 5px 10px;
+    margin-bottom: 5px;
+    line-height: 37px;
+    height: 37px;
+    font-size: 13px
+}
+
+.homeDesktopSearchBox .rangeBox .maxBox,.homeDesktopSearchBox .rangeBox .minBox {
+    margin-left: 20px;
+    width: 100%
+}
+
+.homeDesktopSearchBox .rangeBox .minBox {
+    margin-left: 0
+}
+
+.homeDesktopSearchBox .rangeBox ul {
+    display: block;
+    width: 100%;
+    overflow: initial;
+    min-width: initial
+}
+
+.homeDesktopSearchBox .rangeBox ul li {
+    width: 100%;
+    height: 27px;
+    line-height: 27px;
+    transition: .3s;
+    cursor: pointer
+}
+
+.homeDesktopSearchBox .rangeBox ul li:hover {
+    padding-left: 10px;
+    background: #f0f0f0;
+    transition: .3s
+}
+
+.homeDesktopSearchBox .rangeBox ul li.disabled {
+    pointer-events: none;
+    cursor: default;
+    color: #e5e4e2
+}
+
+.homeDesktopSearchBox .rangeBox input {
+    padding: 5px 10px;
+    margin-bottom: 5px;
+    line-height: 37px;
+    height: 37px;
+    font-size: 13px
+}
+
+.homeDesktopSearchBox ul.checkBox {
+    display: block
+}
+
+.homeDesktopSearchBox ul.checkBox li {
+    padding: 0;
+    color: #333;
+    position: relative;
+    width: 100%;
+    line-height: inherit
+}
+
+.homeDesktopSearchBox ul.checkBox li:hover {
+    background: 0 0
+}
+
+.homeDesktopSearchBox ul.checkBox.propertyType {
+    overflow: inherit
+}
+
+.homeDesktopSearchBox .labelBox input,.homeDesktopSearchBox ul.checkBox li input {
+    position: absolute;
+    left: 0;
+    top: 3px
+}
+
+.homeDesktopSearchBox .labelBox input::before,.homeDesktopSearchBox ul.checkBox li input::before {
+    font-size: 11px;
+    line-height: 11px
+}
+
+.homeDesktopSearchBox .labelBox {
+    position: relative;
+    display: block;
+    font-size: 15px;
+    transition: .3s
+}
+
+.homeDesktopSearchBox .labelBox .labelBody {
+    padding: 0 0 0 25px;
+    max-height: 0;
+    overflow: hidden;
+    font-size: 13px
+}
+
+.homeDesktopSearchBox .labelBox em {
+    padding: 4px;
+    position: absolute;
+    right: 10px;
+    top: 0;
+    width: 18px;
+    height: 18px;
+    font-size: 10px;
+    background: #e0e0e0;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #333;
+    cursor: pointer;
+    font-family: icomoon
+}
+
+.homeDesktopSearchBox .labelBox em:before {
+    content: "\e928";
+    font-style: normal
+}
+
+.homeDesktopSearchBox .labelBox.active em:before {
+    content: "\e927"
+}
+
+.homeDesktopSearchBox .labelBox label {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 229px;
+    color: #333
+}
+
+.homeDesktopSearchBox .labelBox .labelBody label {
+    overflow: visible;
+    text-overflow: inherit;
+    white-space: normal;
+    width: auto
+}
+
+.homeDesktopSearchBox .labelBox.active .labelBody {
+    max-height: 800px;
+    transition: .3s
+}
+
+.homeDesktopSearchBox .labelBox label,.homeDesktopSearchBox ul.checkBox li label {
+    padding-left: 25px;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 155px;
+    text-overflow: ellipsis;
+    font-size: 13px
+}
+
+.drop-downcity li:hover,.ui-menu-item-wrapper {
+    background: 0 0;
+    border: none;
+    color: #333
+}
+
+.desktopAutoComplete {
+    width: 100%;
+    background: #fff;
+    box-shadow: 0 6px 6px 0 #33300029;
+    position: absolute;
+    left: 0;
+    top: 100%;
+    overflow: hidden;
+    overflow-y: auto;
+    border-radius: 0 0 5px 5px;
+    transition: .3s;
+    z-index: 2
+}
+
+.desktopAutoComplete ul {
+    left: 0!important
+}
+
+.desktopAutoComplete ul li {
+    padding: 0 85px 0 40px;
+    position: relative;
+    display: block;
+    color: #333;
+    text-align: left;
+    font-size: 14px;
+    line-height: 38px;
+    cursor: pointer;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    border-top: #e6e6e6 solid 1px
+}
+
+.desktopAutoComplete ul li.highlightItem {
+    background: #f1f1f1
+}
+
+.desktopAutoComplete ul li em {
+    position: absolute;
+    left: 15px;
+    top: 0;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    z-index: 0;
+    font-size: 18px;
+    color: #969696
+}
+
+.desktopAutoComplete ul li span {
+    display: block;
+    font-size: 13px;
+    color: #666;
+    position: absolute;
+    right: 10px;
+    top: 0
+}
+
+.findDreamHome {
+    padding: 60px 0;
+    display: block;
+    position: relative;
+    background: #faf8ff;
+    text-align: center
+}
+
+.findDreamHome .doodleImgBox {
+    position: absolute;
+    top: 130px;
+    left: -135px
+}
+
+.findDreamHome h2 {
+    padding: 0 0 15px;
+    display: block;
+    font-size: 26px;
+    color: #333;
+    line-height: 22px;
+    text-align: center
+}
+
+.findDreamHome small {
+    font-size: 16px;
+    color: #666
+}
+
+.findDreamHome .toolsBanner {
+    display: block
+}
+
+.findDreamHome .toolsBanner ul {
+    display: block;
+    overflow: hidden;
+    position: relative
+}
+
+.findDreamHome .toolsBanner li {
+    margin-top: 30px;
+    display: block;
+    width: calc(50% - 15px);
+    float: left;
+    background: #faf8ff;
+    border-radius: 8px;
+    overflow: hidden
+}
+
+.findDreamHome .toolsBanner li:nth-child(1) {
+    margin-right: 30px
+}
+
+.findDreamHome .toolsBanner li img {
+    float: left
+}
+
+@media screen and (max-width: 1024px) {
+    .findDreamHome .doodleImgBox {
+        top:0
+    }
+
+    .findDreamHome .toolsBanner li {
+        width: calc(50% - 15px)
+    }
+
+    .findDreamHome .toolsBanner li:nth-child(3) {
+        margin-top: 30px
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .findDreamHome small {
+        font-size:14px;
+        color: #666;
+        max-width: 500px;
+        display: block;
+        margin: 0 auto
+    }
+}
+
+.ourCollections {
+    padding: 60px 0;
+    display: block;
+    background: #faf8ff
+}
+
+.ourCollections.newProjectCollections {
+    padding: 60px 0 0
+}
+
+.ourCollections.resaleCollectionsBox {
+    padding-bottom: 0
+}
+
+.ourCollectionsHeading {
+    font-size: 26px;
+    color: #333;
+    display: block;
+    text-align: center
+}
+
+.ourCollectionsHeading a {
+    color: #333
+}
+
+.ourCollections.newProjectCollections .ourCollectionsHeading {
+    margin-bottom: 30px
+}
+
+.collectionsTabBox {
+    padding: 35px 0 40px;
+    display: block;
+    text-align: center
+}
+
+.collectionTabItem {
+    padding: 0 20px;
+    margin: 0 8px;
+    display: inline-flex;
+    text-align: center;
+    height: 40px;
+    border-radius: 8px;
+    background: #f3ebff;
+    color: #5f449b;
+    align-items: center;
+    font-size: 13px;
+    cursor: pointer;
+    transition: .3s
+}
+
+.collectionTabItem:hover {
+    background: #5f449b;
+    color: #fff;
+    transition: .3s
+}
+
+.collectionTabItem.active {
+    background: #5f449b;
+    color: #fff;
+    cursor: default;
+    transition: .3s
+}
+
+.collectionsBox {
+    padding: 0 20px;
+    display: none;
+    white-space: nowrap;
+    overflow: hidden;
+    justify-content: center
+}
+
+.collectionsBox.active {
+    display: flex
+}
+
+.collectionsItem {
+    margin-left: 15px;
+    flex: none;
+    display: inline-block;
+    width: calc(20% - 12px);
+    height: 255px;
+    white-space: normal;
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #f1f1f1
+}
+
+.collectionsItem:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 128px;
+    background-image: linear-gradient(to bottom,rgba(0,0,0,0),rgba(0,0,0,.51) 29%,#000);
+    z-index: 1
+}
+
+.collectionsItem:first-child {
+    margin: 0
+}
+
+.collectionsItem .img-responsive {
+    width: 100%;
+    object-fit: cover
+}
+
+.collectionsItem a {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2
+}
+
+.collectionsImg {
+    width: 100%;
+    height: 253px;
+    overflow: hidden;
+    display: inline-block;
+    border-radius: 8px
+}
+
+.collectionsImg img {
+    width: 100%
+}
+
+.collectionsDeatils {
+    padding: 15px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    width: 100%
+}
+
+.collectionTitle {
+    padding-bottom: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: Arial,sans-serif;
+    color: #fff;
+    line-height: 22px
+}
+
+.collectionUpTo {
+    padding-bottom: 5px;
+    font-size: 12px;
+    color: #fff;
+    line-height: 1.22;
+    opacity: .9;
+    display: flex;
+    align-items: center
+}
+
+.collectionProperties {
+    font-size: 12px;
+    color: #fff;
+    line-height: 1.22;
+    opacity: .9;
+    display: flex;
+    align-items: center
+}
+
+.collectionProperties em {
+    margin-left: 5px;
+    font-size: 8px;
+    display: inline-block
+}
+
+@media screen and (max-width: 1280px) {
+    .collectionsItem {
+        height:248px
+    }
+
+    .collectionsImg {
+        height: 245px
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .collectionsItem {
+        height:245px;
+        width: 245px
+    }
+
+    .collectionsImg {
+        height: 244px;
+        width: 244px
+    }
+
+    .collectionsBox {
+        overflow-x: auto;
+        justify-content: initial
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .ourCollections.newProjectCollections {
+        padding:0
+    }
+
+    .ourCollectionsHeading {
+        padding: 0 15px;
+        font-size: 16px;
+        text-align: left
+    }
+
+    .ourCollectionsHeading a {
+        display: block
+    }
+
+    .collectionsTabBox {
+        padding: 15px 15px 10px;
+        white-space: nowrap;
+        overflow: hidden;
+        overflow-x: auto;
+        text-align: left
+    }
+
+    .collectionTabItem {
+        margin: 0 8px 0 0;
+        height: 38px;
+        font-size: 12px
+    }
+
+    .collectionsBox {
+        padding: 15px
+    }
+
+    .collectionsItem {
+        margin-left: 10px;
+        height: 160px;
+        width: 160px
+    }
+
+    .collectionsItem:after {
+        height: 115px
+    }
+
+    .collectionsImg {
+        height: 160px;
+        width: 160px
+    }
+
+    .collectionUpTo {
+        font-size: 10px
+    }
+
+    .collectionTitle {
+        padding-bottom: 4px;
+        font-size: 13px
+    }
+
+    .collectionProperties {
+        font-size: 12px
+    }
+}
+
+.topDevelopersSection {
+    padding: 60px 0 55px;
+    display: block;
+    position: relative;
+    background: #faf8ff;
+    border-top: 1px solid #f5f5f5
+}
+
+.topDevelopersSection .container {
+    position: relative
+}
+
+.topDevelopersSection .cricketPlayer {
+    position: absolute;
+    top: -25px;
+    right: 15px;
+    height: 178px
+}
+
+.topDevelopersSection h2 {
+    padding: 0 0 30px;
+    display: block;
+    font-size: 26px;
+    color: #333;
+    line-height: 22px;
+    text-align: center
+}
+
+.topDevelopersDetails {
+    margin: 0 -15px;
+    display: block;
+    overflow: hidden
+}
+
+.topDevelopersDetails .topDeveloperTile {
+    margin: 15px;
+    display: block;
+    background: #fff;
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+    transition: .3s;
+    height: 188px;
+    width: calc(33.3% - 30px);
+    float: left;
+    border-radius: 8px;
+    box-shadow: 0 3px 20px 0 rgba(0,0,0,.06)
+}
+
+.topDeveloperTile .box {
+    display: block;
+    overflow: hidden
+}
+
+.topDeveloperTile .box a {
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    overflow: hidden
+}
+
+.topDeveloperTile .box figure {
+    margin-right: 15px;
+    border-radius: 8px;
+    border: solid 1px #ebebeb;
+    width: 108px;
+    height: 108px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden
+}
+
+.topDeveloperTile .box ul {
+    display: block;
+    width: calc(100% - 125px)
+}
+
+.topDeveloperTile .box ul li {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical
+}
+
+.topDeveloperTile .box ul li:nth-child(1) {
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+    transition: .5s
+}
+
+.topDeveloperTile .box ul li:nth-child(2) {
+    font-size: 14px;
+    color: #666;
+    font-weight: 400
+}
+
+.topDeveloperTile .projectsLinkBox {
+    border-top: #e8e8e8 solid 1px;
+    display: block
+}
+
+.topDeveloperTile .projectsLinkBox a {
+    padding: 0 15px;
+    font-size: 12px;
+    color: #5f449b;
+    display: block;
+    text-align: center;
+    line-height: 50px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap
+}
+
+.topDeveloperTile:hover .box ul li:nth-child(1) {
+    color: #58bf93;
+    transition: .5s
+}
+
+.topDeveloperTile .projectsLinkBox a:hover {
+    text-decoration: underline
+}
+
+@media screen and (max-width: 1024px) {
+    .topDevelopersDetails .topDeveloperTile {
+        height:165px
+    }
+
+    .topDeveloperTile .box figure {
+        width: 85px;
+        height: 85px
+    }
+
+    .topDeveloperTile .box ul {
+        width: calc(100% - 100px)
+    }
+
+    .topDevelopersSection {
+        padding: 30px 0 0 0;
+        background: #fff;
+        overflow: hidden;
+        border: none
+    }
+
+    .topDevelopersSection .cricketPlayer {
+        height: 100px;
+        top: -22px;
+        right: -25px
+    }
+
+    .topDevelopersSection h2 {
+        padding: 0 0 20px;
+        text-align: left;
+        font-size: 16px
+    }
+
+    .topDevelopersDetails .topDeveloperTile {
+        margin: 0;
+        width: 33.3%;
+        border-left: #e8e8e8 solid 1px;
+        border-bottom: #e8e8e8 solid 1px;
+        border-radius: 0;
+        height: 168px;
+        box-shadow: none
+    }
+
+    .topDevelopersDetails .topDeveloperTile:nth-child(1),.topDevelopersDetails .topDeveloperTile:nth-child(4) {
+        border-left: #e8e8e8 solid 0
+    }
+
+    .topDevelopersDetails .topDeveloperTile:nth-child(1),.topDevelopersDetails .topDeveloperTile:nth-child(2),.topDevelopersDetails .topDeveloperTile:nth-child(3) {
+        border-top: #e8e8e8 solid 1px
+    }
+
+    .topDeveloperTile .box a {
+        padding: 0;
+        flex-direction: column
+    }
+
+    .topDeveloperTile .box figure {
+        margin: 10px 0;
+        border: 0
+    }
+
+    .topDeveloperTile .box ul {
+        padding: 0 15px;
+        width: 100%
+    }
+
+    .topDeveloperTile .box ul li:nth-child(1) {
+        white-space: normal;
+        font-size: 13px;
+        text-align: center;
+        line-height: 16px
+    }
+
+    .topDeveloperTile .box ul li:nth-child(2) {
+        display: none
+    }
+
+    .topDeveloperTile .projectsLinkBox {
+        border: 0
+    }
+
+    .topDeveloperTile .projectsLinkBox a {
+        line-height: 22px;
+        font-size: 12px
+    }
+
+    .topDeveloperTile .projectsLinkBox a span {
+        display: none
+    }
+}
+
+.realEstateAgentsBannerBox {
+    overflow: hidden;
+    position: relative
+}
+
+.realEstateAgentsBox {
+    padding: 60px 0;
+    background: #fff;
+    display: block;
+    position: relative;
+    font-family: arial!important
+}
+
+.realEstateAgentsBox .agentLeftImg {
+    position: absolute;
+    left: 50px;
+    top: -45px;
+    width: 200px
+}
+
+.realEstateAgentsBox h2 {
+    display: block;
+    font-size: 26px;
+    color: #333;
+    text-align: center;
+    position: relative;
+    z-index: 1
+}
+
+.realEstateAgentsBox h2 a {
+    color: #333
+}
+
+.realEstateAgentsBox .box {
+    padding: 35px 33px 30px 28px;
+    margin: 40px 0 0;
+    overflow: hidden;
+    border-radius: 20px 50px;
+    height: 211px;
+    width: calc(50% - 15px);
+    float: left
+}
+
+.realEstateAgentsBox .box:nth-child(2) {
+    margin-left: 30px
+}
+
+.realEstateAgentsBox .box h3 {
+    font-size: 18px;
+    line-height: normal;
+    font-weight: 600;
+    color: #fff
+}
+
+.realEstateAgentsBox .box p {
+    margin-top: 20px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #fff
+}
+
+.realEstateAgentsBox .box button {
+    margin-top: 20px;
+    border-radius: 50px;
+    background: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    height: 44px
+}
+
+.realEstateAgentsBox .box button em {
+    margin-left: 10px;
+    font-size: 10px;
+    font-weight: 600
+}
+
+.realEstateAgentsBox .box.blueBox {
+    background: #674fa1
+}
+
+.realEstateAgentsBox .box.greenBox {
+    background: #4dc191
+}
+
+.realEstateAgentsBox .box.blueBox button {
+    color: #5e449b
+}
+
+.realEstateAgentsBox .box.greenBox button {
+    color: #4dc191
+}
+
+.realEstateAgentsBox .box a {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse
+}
+
+.realEstateAgentsBox .box figure {
+    text-align: right
+}
+
+.realEstateAgentsBox .box .details,.realEstateAgentsBox .box figure {
+    width: 50%
+}
+
+.realEstateAgentsBox .box.singleBanner {
+    margin: 50px auto 0;
+    height: auto;
+    max-width: 75%;
+    width: inherit;
+    float: none
+}
+
+.realEstateAgentsBox .box.singleBanner br {
+    display: none
+}
+
+.realEstateAgentsBox .box.singleBanner figure {
+    text-align: right;
+    height: 130px;
+    float: left
+}
+
+.realEstateAgentsBox .box.singleBanner a {
+    padding: 0 30px
+}
+
+.realEstateAgentsBox .box.singleBanner p {
+    margin: 0
+}
+
+@media screen and (max-width: 1024px) {
+    .realEstateAgentsBox .agentLeftImg {
+        display:none
+    }
+
+    .realEstateAgentsBox {
+        padding: 30px 0;
+        width: 100%
+    }
+
+    .realEstateAgentsBox h2 {
+        padding: 0;
+        margin: 0;
+        font-size: 16px;
+        text-align: left
+    }
+
+    .realEstateAgentsBox h2 a {
+        color: #333
+    }
+
+    .realEstateAgentsBox .box {
+        width: calc(50% - 10px);
+        height: 100%
+    }
+
+    .realEstateAgentsBox .box,.realEstateAgentsBox .box:nth-child(2) {
+        margin-top: 22px
+    }
+
+    .realEstateAgentsBox .box:nth-child(2) {
+        margin-left: 20px
+    }
+
+    .realEstateAgentsBox .box br {
+        display: none
+    }
+
+    .realEstateAgentsBox .box figure {
+        text-align: right;
+        float: left
+    }
+
+    .realEstateAgentsBox .box p {
+        margin: 10px 0 0 0;
+        font-size: 12px;
+        line-height: 18px
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .realEstateAgentsBannerBox {
+        margin-top:10px
+    }
+
+    .realEstateAgentsBox .box {
+        padding: 25px 18px 25px 25px
+    }
+
+    .realEstateAgentsBox .box,.realEstateAgentsBox .box.singleBanner {
+        width: 100%;
+        max-width: inherit;
+        height: auto
+    }
+
+    .realEstateAgentsBox .box,.realEstateAgentsBox .box:nth-child(2) {
+        margin: 15px 0 0
+    }
+
+    .realEstateAgentsBox .box h3 {
+        font-size: 14px
+    }
+
+    .realEstateAgentsBox .box button {
+        height: 38px;
+        font-size: 12px
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .realEstateAgentsBox {
+        padding:30px 0;
+        width: 100%
+    }
+
+    .realEstateAgentsBox h2 {
+        padding: 0;
+        margin: 0;
+        font-size: 16px;
+        text-align: left
+    }
+
+    .realEstateAgentsBox h2 a {
+        color: #333
+    }
+
+    .realEstateAgentsBox .box {
+        margin-top: 15px;
+        background-size: cover!important
+    }
+
+    .realEstateAgentsBox .box a {
+        padding: 0
+    }
+
+    .realEstateAgentsBox .box .details {
+        width: 60%
+    }
+
+    .realEstateAgentsBox .box figure {
+        margin-bottom: 15px;
+        width: 40%
+    }
+}
+
+.cityHomePageSection {
+    padding: 60px 0;
+    display: block;
+    background: #fff;
+    border-top: 1px solid #f5f5f5
+}
+
+.cityHomePageSection h2 {
+    display: block;
+    text-align: center;
+    font-size: 26px;
+    color: #333
+}
+
+.cityHomePageSection .bigCityListBox {
+    padding: 30px 0 0;
+    display: block
+}
+
+.cityHomePageSection .bigCityListBox ul {
+    display: block;
+    text-align: center
+}
+
+.cityHomePageSection .bigCityListBox ul li {
+    margin: 10px 8px 30px;
+    display: inline-block;
+    height: 162px;
+    border-radius: 8px;
+    box-shadow: 0 2px 26px 0 #00000017;
+    background: #fff;
+    width: 14.9%
+}
+
+.cityHomePageSection .bigCityListBox ul li a {
+    padding: 0;
+    display: block;
+    height: 100%
+}
+
+.cityHomePageSection .bigCityListBox ul li figure {
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.cityHomePageSection .bigCityListBox ul li figure em {
+    width: 90px;
+    height: 70px;
+    overflow: hidden;
+    display: block
+}
+
+.cityHomePageSection .bigCityListBox ul li figure .ci {
+    background: url(/assets/images/sprite-icon/city-sprite-iconsv2.svg) no-repeat;
+    background-size: 550px
+}
+
+.cityHomePageSection .bigCityListBox ul li figure .ci-delhi {
+    background-position: 0 0
+}
+
+.cityHomePageSection .bigCityListBox ul li figure .ci-noida {
+    background-position: -93px 0
+}
+
+.cityHomePageSection .bigCityListBox ul li figure .ci-gurgaon {
+    background-position: -184px 0
+}
+
+.cityHomePageSection .bigCityListBox ul li figure .ci-pune {
+    background-position: -276px 0
+}
+
+.cityHomePageSection .bigCityListBox ul li figure .ci-bangalore {
+    background-position: -367px 0
+}
+
+.cityHomePageSection .bigCityListBox ul li figure .ci-hyderabad {
+    background-position: -458px 0
+}
+
+.cityHomePageSection .bigCityListBox ul li figure .ci-lucknow {
+    background-position: 0 -73px
+}
+
+.cityHomePageSection .bigCityListBox ul li figure .ci-vijayawada {
+    background-position: -93px -73px
+}
+
+.cityHomePageSection .bigCityListBox ul li figure .ci-vizag {
+    background-position: -184px -73px
+}
+
+.cityHomePageSection .bigCityListBox ul li figure .ci-kolkata {
+    background-position: -276px -73px
+}
+
+.cityHomePageSection .bigCityListBox ul li figure .ci-chennai {
+    background-position: -367px -73px
+}
+
+.cityHomePageSection .bigCityListBox ul li figure .ci-jaipur {
+    background-position: -458px -73px
+}
+
+.cityHomePageSection .bigCityListBox ul li figure .ci-ahmedabad {
+    background-position: 0 -143px
+}
+
+.cityHomePageSection .bigCityListBox ul li figure .ci-greater-noida {
+    background-position: -93px -143px
+}
+
+.cityHomePageSection .bigCityListBox ul li figure .ci-mumbai {
+    background-position: -184px -143px
+}
+
+.cityHomePageSection .bigCityListBox ul li figure .ci-navi-mumbai {
+    background-position: -276px -143px
+}
+
+.cityHomePageSection .bigCityListBox ul li figure .ci-thane {
+    background-position: -367px -143px
+}
+
+.cityHomePageSection .bigCityListBox ul li figcaption {
+    color: #333;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.cityHomePageSection .bigCityListBox ul li figcaption em {
+    margin-left: 0;
+    width: 0;
+    overflow: hidden;
+    transition: .3s
+}
+
+.cityHomePageSection .bigCityListBox ul li:hover figcaption em {
+    margin-left: 8px;
+    width: auto;
+    transition: .3s
+}
+
+.cityHomePageSection .smallCityListBox {
+    display: block
+}
+
+.cityHomePageSection .smallCityListBox ul {
+    display: block;
+    text-align: center
+}
+
+.cityHomePageSection .smallCityListBox ul li {
+    margin: 12px 2px 0;
+    display: inline-block;
+    height: 34px;
+    border-radius: 30px;
+    box-shadow: 0 3px 6px 0 rgba(3,3,3,.06);
+    border: solid 1px #e5e5e5;
+    background: #fff;
+    line-height: 32px;
+    cursor: pointer;
+    font-size: 13px
+}
+
+.cityHomePageSection .smallCityListBox ul li a {
+    padding: 0 20px;
+    color: #333;
+    display: block
+}
+
+.cityHomePageSection .smallCityListBox ul li:hover {
+    border: solid 1px #5e449b
+}
+
+.cityHomePageSection .smallCityListBox ul li:hover a {
+    color: #5e449b
+}
+
+.cityHomePageSection .smallCityListBox ul li.btn {
+    padding: 0;
+    background: 0 0;
+    color: #5f449b;
+    transition: .3s;
+    box-shadow: none;
+    border: solid 1px #faf8ff
+}
+
+.cityHomePageSection .smallCityListBox ul li.btn span {
+    padding: 0 8px;
+    color: #5f449b;
+    display: block;
+    transition: .3s
+}
+
+.cityHomePageSection .smallCityListBox ul li.btn:hover {
+    transition: .3s
+}
+
+.cityHomePageSection .smallCityListBox ul li.btn:hover span {
+    text-decoration: underline;
+    transition: .3s
+}
+
+.cityHomePageSection .btnBox {
+    padding: 0 15px;
+    display: block
+}
+
+.cityHomePageSection .btnBox .btn {
+    height: 45px;
+    width: 100%;
+    border-radius: 8px;
+    background: #faf8ff;
+    position: relative;
+    display: none;
+    overflow: hidden
+}
+
+.cityHomePageSection .btnBox .btn:after {
+    content: 'View More';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #5f449b
+}
+
+.cityHomePageSection .btnBox .btn.active:after {
+    content: 'View Less';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #5f449b
+}
+
+.cityHomePageSection .btnBox .btn:before {
+    content: '\e919';
+    padding-left: 95px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #5f449b;
+    font-family: icomoon
+}
+
+.cityHomePageSection .btnBox .btn.active:before {
+    content: '\e918';
+    padding-left: 95px;
+    transition: .3s
+}
+
+@media screen and (max-width: 1024px) {
+    .cityHomePageSection {
+        padding:30px 0;
+        display: block
+    }
+
+    .cityHomePageSection h2 {
+        padding: 0 8px;
+        margin-bottom: -10px;
+        font-size: 16px;
+        text-align: left
+    }
+
+    .cityHomePageSection .bigCityListBox ul li {
+        width: 14.73%;
+        height: 140px
+    }
+
+    .cityHomePageSection .bigCityListBox ul li figure {
+        height: 100px
+    }
+
+    .cityHomePageSection .btnBox .btn {
+        font-size: 12px
+    }
+
+    .cityHomePageSection .bigCityListBox ul li figcaption {
+        font-size: 12px
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .cityHomePageSection .container {
+        padding:0
+    }
+
+    .cityHomePageSection h2 {
+        padding: 0 15px
+    }
+
+    .cityHomePageSection .bigCityListBox {
+        padding: 20px 0 0
+    }
+
+    .cityHomePageSection .bigCityListBox ul {
+        padding: 0 15px;
+        white-space: nowrap;
+        overflow: hidden;
+        overflow-x: auto
+    }
+
+    .cityHomePageSection .bigCityListBox ul li {
+        margin: 15px 0 20px 15px;
+        width: 140px
+    }
+
+    .cityHomePageSection .bigCityListBox ul li:first-child {
+        margin-left: 0
+    }
+
+    .cityHomePageSection .smallCityListBox {
+        padding: 0 15px;
+        display: none
+    }
+
+    .cityHomePageSection .smallCityListBox.active {
+        padding: 0 15px 15px;
+        display: block
+    }
+
+    .cityHomePageSection .smallCityListBox ul {
+        margin-bottom: 10px;
+        text-align: left;
+        overflow: hidden
+    }
+
+    .cityHomePageSection .smallCityListBox ul li {
+        margin: 0 2px 0 0;
+        width: calc(33.3% - 15px);
+        float: left;
+        box-shadow: none;
+        border: 0;
+        border-radius: 0;
+        background: 0 0;
+        display: block!important
+    }
+
+    .cityHomePageSection .smallCityListBox ul li a {
+        padding: 0;
+        color: #5e449b;
+        line-height: 38px
+    }
+
+    .cityHomePageSection .smallCityListBox ul li:nth-child(3n+1) {
+        margin-left: 0
+    }
+
+    .cityHomePageSection .smallCityListBox ul li:hover {
+        border: 0
+    }
+
+    .cityHomePageSection .btnBox .btn {
+        background: #fff;
+        border: #efe8ff solid 1px;
+        display: block
+    }
+
+    #dev_smallcity_moreinfo {
+        display: none!important
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .cityHomePageSection .bigCityListBox ul li {
+        width:120px;
+        height: 112px
+    }
+
+    .cityHomePageSection .bigCityListBox ul li figure {
+        padding: 10px 0 0;
+        height: 72px
+    }
+
+    .cityHomePageSection .bigCityListBox ul li figcaption {
+        margin-top: 8px
+    }
+
+    .cityHomePageSection .smallCityListBox ul li {
+        width: 47%;
+        background: 0 0
+    }
+
+    .cityHomePageSection .smallCityListBox ul li:nth-child(3n+1) {
+        margin-left: 0
+    }
+
+    .cityHomePageSection .smallCityListBox ul li:nth-child(odd) {
+        margin-left: 0
+    }
+}
+
+.devAgentSection {
+    position: relative;
+    background: #fff;
+    border-bottom: 1px solid #f5f5f5;
+    border-top: 1px solid #f5f5f5
+}
+
+.devAgentSection::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    width: 50%;
+    height: 100%;
+    background: #f8fbff;
+    border-right: 1px solid #f5f5f5
+}
+
+.devAgentSection .devAgentBx {
+    padding: 60px 0;
+    display: flex;
+    align-items: center;
+    position: relative;
+    gap: 60px
+}
+
+.devAgentSection .devAgentBx .forDeveloperBx {
+    width: 100%
+}
+
+.devAgentSection .devAgentBx .forAgentBx {
+    width: 100%;
+    background: #fff
+}
+
+.devAgentSection .forDeveloperBx .headingBx,.forAgentBx .headingBx {
+    margin-bottom: 40px;
+    text-align: center
+}
+
+.devAgentSection .forDeveloperBx .headingBx h2,.forAgentBx .headingBx h2 {
+    margin-bottom: 10px;
+    font-size: 26px;
+    color: #333;
+    line-height: 22px
+}
+
+.devAgentSection .forDeveloperBx .headingBx p,.forAgentBx .headingBx p {
+    font-size: 14px;
+    line-height: 22px;
+    color: #282828
+}
+
+.devAgentSection .devAgentBx .tile {
+    padding: 16px 24px;
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+    transition: all .3s linear
+}
+
+.devAgentSection .devAgentBx .tile.bg1 {
+    background-color: #e1f1ff
+}
+
+.devAgentSection .devAgentBx .tile.bg2 {
+    background-color: #ddf5ff
+}
+
+.devAgentSection .devAgentBx .tile.bg3 {
+    background-color: #fff6e7
+}
+
+.devAgentSection .devAgentBx .tile.bg4 {
+    background-color: #fef3ef
+}
+
+.devAgentSection .devAgentBx .tile.bg1 .titleHead h3:after {
+    background-color: #83d1d7
+}
+
+.devAgentSection .devAgentBx .tile.bg2 .titleHead h3:after {
+    background-color: #708dc7
+}
+
+.devAgentSection .devAgentBx .tile.bg3 .titleHead h3:after {
+    background-color: #f885a3
+}
+
+.devAgentSection .devAgentBx .tile.bg4 .titleHead h3:after {
+    background-color: #eec3b3
+}
+
+.devAgentSection .devAgentBx .tile:first-child {
+    margin-bottom: 24px
+}
+
+.devAgentSection .devAgentBx .tile .sideImg {
+    position: absolute;
+    bottom: 0;
+    right: 0
+}
+
+.devAgentSection .devAgentBx .tile .rightGap {
+    right: 15px
+}
+
+.devAgentSection .devAgentBx .tile .positionImg {
+    right: -54px;
+    bottom: -24px
+}
+
+.devAgentSection .devAgentBx .tile ul {
+    margin: 16px 0 15px
+}
+
+.devAgentSection .devAgentBx .tile ul li {
+    padding-left: 26px;
+    margin-bottom: 4px;
+    font-size: 13px;
+    max-width: 320px;
+    line-height: 21px;
+    letter-spacing: .1px;
+    color: #484848;
+    position: relative;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis
+}
+
+.devAgentSection .devAgentBx .tile ul li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 3px;
+    width: 13px;
+    height: 13px;
+    background: url(/assets/images/broker-performance/tick.svg) no-repeat
+}
+
+.devAgentSection .devAgentBx .tile .titleHead {
+    display: flex;
+    display: -webkit-flex;
+    align-items: center;
+    gap: 24px;
+    min-height: 70px
+}
+
+.devAgentSection .devAgentBx .tile .titleHead img {
+    max-width: 70px;
+    max-height: 70px
+}
+
+.devAgentSection .devAgentBx .tile .titleHead h3 {
+    color: #181b30;
+    font-size: 14px;
+    font-weight: 700;
+    position: relative
+}
+
+.devAgentSection .devAgentBx .tile .titleHead h3:after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    width: 43px;
+    height: 2px;
+    background: #83d1d7
+}
+
+.devAgentSection .devAgentBx .tile .btn {
+    box-shadow: 0 10px 30px 0 rgba(0,0,0,.1);
+    background-color: #fbfffd;
+    font-size: 13px;
+    line-height: 12px;
+    color: #111112;
+    font-weight: 600;
+    transition: .3s
+}
+
+.devAgentSection .devAgentBx .tile .btn em {
+    font-weight: 600;
+    font-size: 13px;
+    width: 22px;
+    height: 12px;
+    display: inline-block;
+    transition: .3s;
+    position: relative;
+    top: 2px;
+    left: 5px
+}
+
+.devAgentSection .devAgentBx .forAgentBx .tile .titleHead h3:after {
+    background: #f2b196
+}
+
+.devAgentSection .devAgentBx .tile .btn:hover {
+    box-shadow: 0 10px 30px 0 #00000033;
+    transition: .3s
+}
+
+.devAgentSection .devAgentBx .tile .btn:hover em {
+    left: 10px;
+    transition: .3s
+}
+
+@media screen and (max-width: 1024px) {
+    .devAgentSection .devAgentBx {
+        padding:35px 0
+    }
+
+    .devAgentSection .devAgentBx .tile .positionImg {
+        max-width: 170px
+    }
+
+    .devAgentSection .forDeveloperBx .headingBx h2,.forAgentBx .headingBx h2 {
+        margin-bottom: 10px;
+        font-size: 16px;
+        line-height: 22px;
+        text-align: left
+    }
+
+    .devAgentSection .forDeveloperBx .headingBx,.forAgentBx .headingBx {
+        margin-bottom: 25px
+    }
+
+    .devAgentSection .devAgentBx .tile .titleHead h3 {
+        font-size: 13px
+    }
+
+    .devAgentSection .devAgentBx .tile ul li {
+        font-size: 12px
+    }
+
+    .devAgentSection .devAgentBx .tile .btn {
+        font-size: 12px
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .devAgentSection::before {
+        display:none
+    }
+
+    .devAgentSection .devAgentBx .tile .btn {
+        margin-top: 14px
+    }
+
+    .devAgentSection .devAgentBx .tile .positionImg {
+        max-width: 100%
+    }
+
+    .devAgentSection .devAgentBx {
+        flex-direction: column
+    }
+
+    .devAgentSection .devAgentBx .mainTileBx {
+        padding: 0 15px;
+        margin: 0 -15px;
+        display: flex;
+        display: -webkit-flex;
+        overflow-x: auto
+    }
+
+    .devAgentSection .devAgentBx .tile {
+        min-width: 517px
+    }
+
+    .devAgentSection .devAgentBx .tile:first-child {
+        margin-bottom: 0
+    }
+
+    .devAgentSection .devAgentBx .tile~.tile {
+        margin-left: 15px
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .devAgentSection {
+        padding-bottom:15px
+    }
+
+    .devAgentSection .devAgentBx {
+        padding: 0;
+        gap: 0
+    }
+
+    .devAgentSection .devAgentBx .tile {
+        padding: 16px;
+        min-width: auto;
+        width: 310px;
+        flex: none
+    }
+
+    .devAgentSection .devAgentBx .tile .titleHead {
+        min-height: 42px;
+        gap: 0
+    }
+
+    .devAgentSection .devAgentBx .tile .titleHead h3 {
+        margin-left: 16px;
+        font-size: 16px;
+        flex: none;
+        width: calc(100% - 56px)
+    }
+
+    .devAgentSection .devAgentBx .tile .titleHead img {
+        max-width: 40px;
+        max-height: 40px;
+        flex: none
+    }
+
+    .devAgentSection .devAgentBx .tile ul li {
+        padding-left: 20px;
+        margin-bottom: 8px;
+        font-size: 12px;
+        line-height: 18px
+    }
+
+    .devAgentSection .devAgentBx .tile .sideImg {
+        max-width: 135px;
+        height: 84px
+    }
+
+    .devAgentSection .devAgentBx .tile .fullImg {
+        max-width: 200px;
+        height: auto
+    }
+
+    .devAgentSection .devAgentBx .tile .positionImg {
+        right: -24px;
+        bottom: -10px;
+        height: 95px
+    }
+
+    .devAgentSection .devAgentBx .tile .btn {
+        margin-top: 14px;
+        font-size: 12px
+    }
+
+    .devAgentSection .devAgentBx .tile .btn em {
+        padding-left: 7px;
+        font-size: 12px
+    }
+
+    .devAgentSection .devAgentBx .tile ul {
+        margin-top: 20px
+    }
+
+    .devAgentSection .devAgentBx .forAgentBx,.devAgentSection .devAgentBx .forDeveloperBx {
+        padding: 16px 0
+    }
+
+    .devAgentSection .forAgentBx .headingBx h2,.devAgentSection .forDeveloperBx .headingBx h2 {
+        margin-bottom: 0;
+        font-size: 16px
+    }
+
+    .devAgentSection .forAgentBx .headingBx,.devAgentSection .forDeveloperBx .headingBx {
+        margin-bottom: 15px;
+        text-align: left
+    }
+
+    .devAgentSection .devAgentBx .forDeveloperBx {
+        padding-top: 30px
+    }
+}
+
+.newBlogBox {
+    padding: 60px 0;
+    display: block;
+    background: #fff
+}
+
+.newBlogBox h2 {
+    padding-bottom: 40px;
+    font-size: 26px;
+    color: #333;
+    display: block;
+    text-align: center
+}
+
+.newBlogBox .blogDatabox {
+    display: flex
+}
+
+.newBlogBox .blogNaBox {
+    margin-right: 30px;
+    display: block;
+    width: 362px;
+    border-radius: 8px;
+    box-shadow: 0 5px 20px 0 #00000014;
+    border: solid 1px #f0f0f0;
+    background: #fff
+}
+
+.newBlogBox .blogNaBox ul {
+    display: block
+}
+
+.newBlogBox .blogNaBox ul li {
+    padding: 0 15px;
+    line-height: 58px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    cursor: pointer
+}
+
+.newBlogBox .blogNaBox ul li em {
+    margin-right: 15px;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.newBlogBox .blogNaBox ul li em.bI {
+    background: url(https://img.squareyards.com/assets/images/blog-sprite.svg) no-repeat left top;
+    background-size: 115px;
+    width: 28px;
+    height: 28px
+}
+
+.newBlogBox .blogNaBox ul li em.bI.bIcon1 {
+    background-position: 0 0
+}
+
+.newBlogBox .blogNaBox ul li em.bI.bIcon2 {
+    background-position: -30px 0
+}
+
+.newBlogBox .blogNaBox ul li em.bI.bIcon3 {
+    background-position: -58px 0
+}
+
+.newBlogBox .blogNaBox ul li em.bI.bIcon4 {
+    background-position: -87px 0
+}
+
+.newBlogBox .blogNaBox ul li em.bI.bIcon5 {
+    background-position: 0 -29px
+}
+
+.newBlogBox .blogNaBox ul li em.bI.bIcon6 {
+    background-position: -30px -29px
+}
+
+.newBlogBox .blogNaBox ul li em.bI.bIcon7 {
+    background-position: -58px -29px
+}
+
+.newBlogBox .blogNaBox ul li em.bI.bIcon8 {
+    background-position: -87px -29px
+}
+
+.newBlogBox .blogNaBox ul li span {
+    width: calc(100% - 35px);
+    position: relative
+}
+
+.newBlogBox .blogNaBox ul li::after {
+    content: '';
+    background: #ebebeb;
+    width: calc(100% - 30px);
+    height: 1px;
+    position: absolute;
+    top: 0;
+    left: 15px
+}
+
+.newBlogBox .blogNaBox ul li:first-child:after {
+    display: none
+}
+
+.newBlogBox .blogNaBox ul li:hover span {
+    color: #5f449b
+}
+
+.newBlogBox .blogNaBox ul li.active {
+    cursor: default
+}
+
+.newBlogBox .blogNaBox ul li.active span {
+    color: #5f449b
+}
+
+.newBlogBox .blogNaBox ul li.active span:after {
+    content: '\e91c';
+    width: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-family: icomoon;
+    font-size: 14px
+}
+
+.newBlogBox .blogNaBox ul li.active::before {
+    content: '';
+    margin: -18px 0 0;
+    background: #5f449b;
+    width: 4px;
+    height: 36px;
+    border-radius: 0 5px 5px 0;
+    position: absolute;
+    top: 50%;
+    left: 0
+}
+
+.newBlogBox .blogDetailsBox {
+    display: none;
+    width: calc(100% - 392px)
+}
+
+.newBlogBox .blogDetailsBox.active {
+    display: block
+}
+
+.newBlogBox .blogDetailsBox .blogTile {
+    margin-top: 25px;
+    display: block
+}
+
+.newBlogBox .blogDetailsBox .blogTile:first-child {
+    margin-top: 0
+}
+
+.newBlogBox .blogDetailsBox .blogTile h3 {
+    padding-bottom: 5px;
+    display: block;
+    font-size: 14px
+}
+
+.newBlogBox .blogDetailsBox .blogTile h3 a {
+    color: #5f449b;
+    white-space: nowrap;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis
+}
+
+.newBlogBox .blogDetailsBox .blogTile p {
+    display: block;
+    font-size: 12px;
+    color: #666;
+    line-height: 18px
+}
+
+.newBlogBox .blogDetailsBox .blogTile ul {
+    margin-top: 5px;
+    display: block;
+    position: relative
+}
+
+.newBlogBox .blogDetailsBox .blogTile ul li {
+    margin-left: 15px;
+    display: inline-block;
+    font-size: 12px;
+    color: #333;
+    line-height: 20px;
+    position: relative
+}
+
+.newBlogBox .blogDetailsBox .blogTile ul li:first-child {
+    margin-left: 0
+}
+
+.newBlogBox .blogDetailsBox .blogTile ul li:first-child::after {
+    content: '';
+    margin-top: -2px;
+    position: absolute;
+    top: 50%;
+    right: -10px;
+    background: #848484;
+    width: 3px;
+    height: 3px;
+    border-radius: 5px
+}
+
+.newBlogBox .blogDetailsBox .blogTile ul li.listingType {
+    padding: 0 15px;
+    border-radius: 30px;
+    background: #efe8ff;
+    color: #5f449b;
+    line-height: 24px
+}
+
+.newBlogBox .blogDetailsBox .blogTile ul li a {
+    display: block
+}
+
+.newBlogBox .btnBox {
+    margin-top: 20px;
+    display: block;
+    text-align: right
+}
+
+.newBlogBox .btnBox a {
+    font-size: 13px;
+    color: #5f449b
+}
+
+@media screen and (max-width: 1024px) {
+    .newBlogBox .blogNaBox {
+        width:300px
+    }
+
+    .newBlogBox .blogDetailsBox .blogTile h3 {
+        font-size: 13px
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .newBlogBox .blogNaBox {
+        padding:0 15px 15px;
+        margin: 0 -15px;
+        display: block;
+        width: calc(100% + 30px);
+        border: 0;
+        box-shadow: none;
+        overflow: hidden;
+        overflow-x: auto
+    }
+
+    .newBlogBox .blogNaBox ul {
+        white-space: nowrap
+    }
+
+    .newBlogBox .blogNaBox ul li {
+        padding: 0 20px;
+        margin: 0 8px;
+        display: inline-flex;
+        text-align: center;
+        height: 40px;
+        border-radius: 8px;
+        background: #f3ebff;
+        color: #5f449b;
+        align-items: center;
+        font-size: 12px;
+        cursor: pointer;
+        transition: .3s
+    }
+
+    .newBlogBox .blogNaBox ul li:first-child {
+        margin-left: 0
+    }
+
+    .newBlogBox .blogNaBox ul li:hover {
+        background: #5f449b;
+        color: #fff;
+        transition: .3s
+    }
+
+    .newBlogBox .blogNaBox ul li:hover span {
+        color: #fff;
+        transition: .3s
+    }
+
+    .newBlogBox .blogNaBox ul li.active {
+        background: #5f449b;
+        color: #fff;
+        cursor: default;
+        transition: .3s
+    }
+
+    .newBlogBox .blogNaBox ul li.active span {
+        color: #fff;
+        transition: .3s
+    }
+
+    .newBlogBox .blogDatabox {
+        display: block
+    }
+
+    .newBlogBox .blogDetailsBox {
+        width: 100%
+    }
+
+    .newBlogBox .blogNaBox ul li em,.newBlogBox .blogNaBox ul li.active span:after,.newBlogBox .blogNaBox ul li.active::before,.newBlogBox .blogNaBox ul li::after {
+        display: none
+    }
+
+    .newBlogBox .blogDetailsBox .blogTile h3 a {
+        white-space: inherit;
+        font-size: 13px;
+        line-height: 20px
+    }
+
+    .newBlogBox .blogDetailsBox .blogTile p {
+        line-height: 18px
+    }
+
+    .newBlogBox .blogDetailsBox .blogTile ul li {
+        font-size: 12px;
+        line-height: 20px
+    }
+
+    .newBlogBox .blogDetailsBox .blogTile ul li.linkType {
+        top: 4px
+    }
+
+    .newBlogBox .btnBox a {
+        height: 45px;
+        width: 100%;
+        border-radius: 8px;
+        background: #faf8ff;
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        font-size: 12px
+    }
+
+    .newBlogBox .btnBox a em {
+        margin-left: 5px
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .newBlogBox {
+        padding:30px 0
+    }
+
+    .newBlogBox h2 {
+        padding-bottom: 20px;
+        font-size: 16px;
+        text-align: left
+    }
+
+    .newBlogBox .blogDetailsBox .blogTile p {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis
+    }
+
+    .newBlogBox .blogNaBox ul li {
+        margin: 0 8px 0 0;
+        height: 38px
+    }
+}
+
+.blogFlexBox {
+    display: flex;
+    display: -webkit-flex
+}
+
+.blogLeftBox,.blogRightBox {
+    flex: none
+}
+
+.blogLeftBox {
+    margin-right: 18px;
+    width: calc(100% - 380px)
+}
+
+.blogRightBox {
+    width: 362px
+}
+
+.smallTileSection {
+    margin-top: 14px;
+    display: flex
+}
+
+.smallTile {
+    display: block;
+    border-radius: 8px;
+    background: #fff;
+    border: #e8e8e8 solid 1px;
+    height: 172px;
+    overflow: hidden;
+    position: relative
+}
+
+.smallTile+.smallTile {
+    margin-left: 14px
+}
+
+.smallTile figure {
+    position: relative
+}
+
+.smallTile figure:after {
+    content: '';
+    width: 100%;
+    height: 138px;
+    background-image: linear-gradient(to bottom,#00000000,#000000bf 58%,#000);
+    position: absolute;
+    bottom: 0;
+    left: 0
+}
+
+.smallTile figure img {
+    height: 172px;
+    width: 100%
+}
+
+.smallTile .detailsBox {
+    padding: 10px 15px;
+    position: absolute;
+    bottom: 0;
+    z-index: 1
+}
+
+.smallTile .detailsBox h3 {
+    margin: 10px 0;
+    font-size: 13px;
+    color: #fff;
+    line-height: 22px;
+    font-weight: 500
+}
+
+.smallTile .detailsBox h3 a {
+    color: #fff;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden
+}
+
+.smallTileSection.mobile .smallTile {
+    width: 25%
+}
+
+.smallTile:hover .detailsBox h3 a {
+    color: #fff;
+    text-decoration: none
+}
+
+.horizontalSmallTileSection {
+    display: block;
+    max-height: 388px;
+    overflow: auto
+}
+
+.horizontalSmallTile {
+    padding: 17px 0;
+    display: flex;
+    border-bottom: #e5e5e5 solid 1px
+}
+
+.horizontalSmallTile:first-child {
+    padding-top: 0
+}
+
+.horizontalSmallTile figure {
+    width: 100px;
+    height: 100px;
+    border-radius: 8px;
+    overflow: hidden
+}
+
+.horizontalSmallTile figure img {
+    height: 100px;
+    width: 100%
+}
+
+.horizontalSmallTile .detailsBox {
+    padding-left: 15px;
+    width: calc(100% - 100px)
+}
+
+.horizontalSmallTile .detailsBox h3 {
+    margin: 10px 0 0;
+    font-size: 16px;
+    color: #333;
+    line-height: 22px;
+    font-weight: 700
+}
+
+.horizontalSmallTile .detailsBox h3 a {
+    color: #333;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden
+}
+
+.horizontalSmallTile .detailsBox .date {
+    font-size: 12px;
+    color: #666;
+    line-height: 20px
+}
+
+.horizontalSmallTile:hover .detailsBox h3 a {
+    color: #000;
+    text-decoration: none
+}
+
+.horizontalBigTile {
+    margin-bottom: 15px;
+    display: flex;
+    border-radius: 8px;
+    background: #fff;
+    border: #e8e8e8 solid 1px;
+    height: 200px;
+    overflow: hidden;
+    position: relative
+}
+
+.horizontalBigTile figure {
+    position: relative;
+    width: 50%
+}
+
+.horizontalBigTile figure img {
+    object-fit: cover;
+    height: 200px;
+    width: 100%
+}
+
+.horizontalBigTile .detailsBox {
+    padding: 20px;
+    width: 50%
+}
+
+.horizontalBigTile .detailsBox h3 {
+    margin: 10px 0;
+    font-size: 14px;
+    color: #333;
+    line-height: 23px;
+    font-weight: 700
+}
+
+.horizontalBigTile .detailsBox h3 a {
+    color: #333;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden
+}
+
+.horizontalBigTile .detailsBox p {
+    font-size: 13px;
+    color: #666;
+    line-height: 20px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden
+}
+
+.horizontalBigTile:hover .detailsBox h3 a {
+    color: #000;
+    text-decoration: none
+}
+
+.hotTopicsTile {
+    display: block;
+    border-radius: 8px;
+    background: #fff;
+    border: #e8e8e8 solid 1px;
+    height: 165px;
+    overflow: hidden;
+    position: relative
+}
+
+.hotTopicsTile .detailsBox a {
+    color: #fff;
+    display: block
+}
+
+.hotTopicsTile figure {
+    position: relative
+}
+
+.hotTopicsTile figure:after {
+    content: '';
+    width: 100%;
+    height: 65px;
+    background-image: linear-gradient(to bottom,#00000000,#000000bf 58%,#000);
+    position: absolute;
+    bottom: 0
+}
+
+.hotTopicsTile figure img {
+    object-fit: cover;
+    height: 165px;
+    width: 100%
+}
+
+.hotTopicsTile h3 {
+    padding: 12px 15px;
+    margin: 10px 0 0;
+    font-size: 16px;
+    color: #fff;
+    line-height: 22px;
+    position: absolute;
+    bottom: 0;
+    z-index: 1;
+    font-weight: 600
+}
+
+.hotTopicsTile:hover a {
+    color: #fff;
+    text-decoration: none
+}
+
+.whitBoxSection {
+    padding: 50px 0;
+    background: #fff;
+    display: block;
+    overflow: hidden
+}
+
+.headingBox {
+    margin-bottom: 20px;
+    display: block;
+    position: relative;
+    border-bottom: #e2e2e2 solid 1px;
+    line-height: 40px
+}
+
+.headingBox span {
+    padding-bottom: 8px;
+    border-bottom: #725bab solid 4px;
+    font-size: 22px;
+    line-height: 20px;
+    font-weight: 700;
+    color: #333
+}
+
+.tabBox {
+    padding-bottom: 20px;
+    display: block
+}
+
+.tabBox ul {
+    padding: 0;
+    margin: 0;
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    overflow-x: auto
+}
+
+.tabBox ul li {
+    padding: 0 20px;
+    margin-right: 10px;
+    display: inline-block;
+    border-radius: 8px;
+    background: #f3ebff;
+    line-height: 38px;
+    font-size: 14px;
+    color: #5f449b;
+    cursor: pointer
+}
+
+.tabBox ul li.active {
+    background: #5f449b;
+    color: #fff;
+    cursor: default
+}
+
+.desktopAppDownloadBox {
+    display: block;
+    background: #faf8ff;
+    height: 362px;
+    overflow: hidden
+}
+
+.desktopAppDownloadBox h3 {
+    margin-top: 60px;
+    font-size: 36px;
+    line-height: 46px;
+    color: #333;
+    font-weight: 700
+}
+
+.desktopAppDownloadBox p {
+    margin-top: 15px;
+    font-size: 18px;
+    line-height: 26px;
+    color: #666
+}
+
+.desktopAppDownloadBox ul {
+    padding: 0;
+    margin: 15px 0 0;
+    display: flex;
+    align-items: center
+}
+
+.desktopAppDownloadBox ul li {
+    margin-left: 15px;
+    display: inline-block
+}
+
+.desktopAppDownloadBox ul li:first-child {
+    margin-left: 0
+}
+
+.desktopAppDownloadBox ul li img {
+    border-radius: 8px;
+    overflow: hidden
+}
+
+.desktopAppDownloadBox figure img {
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated
+}
+
+.desktopAppDownloadBox .btnBox,.desktopAppDownloadBox .mobile-app-screen {
+    display: none
+}
+
+@media screen and (max-width: 850px) {
+    .horizontalSmallTileSection.ipad {
+        margin-top:15px
+    }
+
+    .headingBox span {
+        font-size: 16px
+    }
+
+    .blogFlexBox {
+        display: block
+    }
+
+    .blogLeftBox,.blogRightBox {
+        width: 100%
+    }
+
+    .blogRightBox {
+        display: none
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .whitBoxSection {
+        padding:30px 0
+    }
+
+    .headingBox span {
+        font-size: 18px
+    }
+
+    .horizontalSmallTileSection.mobile {
+        margin-top: 15px
+    }
+
+    .horizontalBigTile {
+        display: block;
+        height: auto;
+        min-height: 390px
+    }
+
+    .horizontalBigTile .detailsBox,.horizontalBigTile figure {
+        width: 100%
+    }
+
+    .horizontalBigTile .detailsBox p {
+        margin: 0
+    }
+
+    .smallTileSection.mobile {
+        display: block
+    }
+
+    .smallTileSection.mobile .smallTile {
+        width: calc(50% - 10px);
+        display: inline-block
+    }
+
+    .smallTileSection.mobile .smallTile:nth-child(3) {
+        margin: 10px 0 0
+    }
+}
+
+.desktopAppDownloadBox {
+    display: block;
+    background: #faf8ff;
+    height: 362px
+}
+
+.desktopAppDownloadBox h3 {
+    margin-top: 60px;
+    font-size: 36px;
+    line-height: 46px;
+    color: #333
+}
+
+.desktopAppDownloadBox p {
+    margin-top: 15px;
+    font-size: 18px;
+    line-height: 26px;
+    color: #666
+}
+
+.desktopAppDownloadBox ul {
+    margin-top: 15px;
+    display: flex;
+    align-items: center
+}
+
+.desktopAppDownloadBox ul li {
+    margin-left: 15px;
+    display: inline-block
+}
+
+.desktopAppDownloadBox ul li:nth-child(1) {
+    margin-left: 0
+}
+
+.desktopAppDownloadBox ul li img {
+    border-radius: 8px;
+    overflow: hidden
+}
+
+.desktopAppDownloadBox figure img {
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated
+}
+
+@media screen and (max-width: 1024px) {
+    .desktopAppDownloadBox ul li:nth-child(3) {
+        display:none
+    }
+
+    .desktopAppDownloadBox p br {
+        display: none
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .desktopAppDownloadBox {
+        height:272px;
+        overflow: hidden
+    }
+
+    .desktopAppDownloadBox h3 {
+        margin-top: 35px;
+        font-size: 30px;
+        line-height: 35px
+    }
+
+    .desktopAppDownloadBox p {
+        font-size: 16px;
+        line-height: 22px
+    }
+}
+
+.cmsContent {
+    padding: 50px 0;
+    display: block;
+    color: #333;
+    font-size: 14px;
+    background: #f8fbff
+}
+
+.cmsContent .container {
+    position: relative;
+    overflow: hidden;
+    max-height: 200px;
+    transition: .5s
+}
+
+.cmsContent .container .btn {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: #f6f8f9;
+    color: #5f449b;
+    text-decoration: underline;
+    font-weight: 700
+}
+
+.cmsContent a {
+    color: #5f449b;
+    text-decoration: underline
+}
+
+.cmsContent p {
+    margin-bottom: 15px;
+    display: block;
+    color: #333;
+    font-size: 14px
+}
+
+.cmsContent p strong {
+    color: #333
+}
+
+.cmsContent h2 {
+    margin-top: 35px;
+    margin-bottom: 10px;
+    color: #333;
+    font-size: 24px;
+    font-weight: 400
+}
+
+.cmsContent h2:first-child {
+    margin-top: 0
+}
+
+.cmsContent h2 b,.cmsContent h2 strong {
+    font-weight: 400
+}
+
+.cmsContent h3 {
+    margin-bottom: 10px;
+    color: #333;
+    font-size: 20px;
+    font-weight: 400
+}
+
+.cmsContent h3 b,.cmsContent h3 strong {
+    font-weight: 400
+}
+
+.cmsContent h4 {
+    margin-bottom: 10px;
+    color: #333;
+    font-size: 18px;
+    font-weight: 400
+}
+
+.cmsContent h4 b,.cmsContent h4 strong {
+    font-weight: 400
+}
+
+.cmsContent table {
+    margin: 25px 0 3px;
+    text-align: left;
+    border-collapse: collapse;
+    overflow: hidden;
+    border-radius: 4px;
+    border-style: hidden;
+    box-shadow: 0 0 0 1px #dfe6ee;
+    width: auto;
+    max-width: 100%;
+    background: #fff
+}
+
+.cmsContent table td {
+    padding: 10px 15px;
+    color: #333;
+    font-size: 14px;
+    line-height: 22px;
+    vertical-align: top;
+    border: 1px solid #dfe6ee;
+    font-weight: 400
+}
+
+.cmsContent table td strong {
+    font-weight: 400
+}
+
+.cmsContent table tr:first-child td strong {
+    color: #333;
+    font-weight: 700
+}
+
+.cmsContent ul {
+    margin-bottom: 30px;
+    display: block
+}
+
+.cmsContent ul li {
+    padding-left: 20px;
+    position: relative;
+    line-height: 24px;
+    list-style-position: inside;
+    font-size: 14px;
+    color: #4a4a4a
+}
+
+.cmsContent ul li:after {
+    content: "";
+    font-weight: 700;
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    position: absolute;
+    border-radius: 50%;
+    left: 0;
+    background: #474ebb;
+    top: 8px
+}
+
+.cmsContent ol li strong {
+    color: #333;
+    padding-right: 10px;
+    color: #333
+}
+
+.cmsContent ol {
+    margin-bottom: 30px;
+    display: block
+}
+
+.cmsContent ol li {
+    margin-bottom: 10px;
+    position: relative;
+    line-height: 22px;
+    list-style-position: inside;
+    font-size: 14px;
+    color: #4a4a4a
+}
+
+.cmsContent span {
+    margin-bottom: 15px
+}
+
+.cmsContent.fullHeight .container {
+    transition: .5s;
+    max-height: 10000px
+}
+
+.cmsContent.fullHeight .container .btn {
+    display: none
+}
+
+.cmsFaqSection {
+    display: block
+}
+
+.cmsFaqBox {
+    margin-top: 15px;
+    display: block;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden
+}
+
+.faqItem {
+    display: block
+}
+
+.faqItem+.faqItem {
+    border-top: #e5e5e5 solid 1px
+}
+
+.faqItem .ansBox {
+    padding: 0 15px;
+    display: none
+}
+
+.faqItem h3 {
+    padding: 15px 52px 15px 15px;
+    margin: 0;
+    position: relative;
+    display: block;
+    font-size: 18px;
+    cursor: pointer
+}
+
+.faqItem h3 em {
+    width: 52px;
+    height: 52px;
+    position: absolute;
+    right: 0;
+    top: 0
+}
+
+.faqItem h3 em::after,.faqItem h3 em::before {
+    position: absolute;
+    top: 19px;
+    content: '';
+    width: 2px;
+    height: 15px;
+    background: #626262;
+    right: 0;
+    left: 0;
+    margin: 0 auto
+}
+
+.faqItem h3 em::after {
+    transform: rotate(0);
+    transition: .3s
+}
+
+.faqItem h3 em::before {
+    transform: rotate(-90deg)
+}
+
+.faqItem.active h3 em::after {
+    transform: rotate(-90deg);
+    transition: .3s
+}
+
+.faqItem.active .ansBox {
+    display: block
+}
+
+.cmswidgets {
+    margin-left: -8px;
+    display: flex
+}
+
+@media screen and (max-width: 1024px) {
+    .cmsContent {
+        padding:30px 0
+    }
+
+    .cmsContent h2 {
+        font-size: 16px;
+        line-height: 22px;
+        color: #333;
+        font-weight: 600
+    }
+
+    .cmsContent p {
+        font-size: 12px
+    }
+
+    .faqItem h3 {
+        font-size: 16px;
+        line-height: 22px
+    }
+}
+
+.featuredLocalitiyBox {
+    padding: 50px 20px;
+    position: relative;
+    background: #fff;
+    border-top: 1px solid #f5f5f5
+}
+
+.featuredLocalitiyBox h2 {
+    padding: 0 0 10px;
+    display: block;
+    font-size: 26px;
+    color: #333;
+    line-height: normal;
+    text-align: center
+}
+
+.localityCardBox {
+    max-width: 1410px;
+    margin: 0 auto
+}
+
+.featuredLocalitiyBox .item {
+    padding: 10px 0
+}
+
+.localityCard {
+    padding: 12px 15px 0;
+    margin: 15px 0;
+    height: 198px;
+    background: #fff;
+    border: 1px solid #e8e8e8;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px 0 #0000000f
+}
+
+.cardHeadingBox {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row-reverse
+}
+
+.cardHeadingBox .heading {
+    padding-right: 15px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%
+}
+
+.cardHeadingBox .heading~.starRatingBox {
+    width: calc(100% - 112px)
+}
+
+.cardHeadingBox .starRatingBox {
+    width: 112px
+}
+
+.cardHeadingBox .link {
+    color: #5f449b;
+    display: flex;
+    display: -webkit-flex;
+    align-items: center;
+    overflow: hidden;
+    line-height: normal
+}
+
+.cardHeadingBox .link strong {
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+    line-height: normal;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap
+}
+
+.cardHeadingBox .link em {
+    background: url(/assets/images/header-icons/header-spiritv6.svg) no-repeat left top;
+    background-size: 400px;
+    display: block;
+    margin-left: 7px;
+    background-position: -12px -351px;
+    width: 14px;
+    height: 14px;
+    flex: none
+}
+
+.cardHeadingBox .totalProjects {
+    margin-top: 5px;
+    color: #5f449b;
+    font-size: 12px;
+    line-height: normal
+}
+
+.cardHeadingBox .starRating {
+    line-height: normal;
+    display: flex;
+    display: -webkit-flex;
+    align-items: center
+}
+
+.cardHeadingBox .totalReview {
+    color: #5f449b;
+    font-size: 12px
+}
+
+.cardHeadingBox .starRating span {
+    margin-right: 5px;
+    color: #333;
+    font-size: 12px;
+    font-weight: 600;
+    position: relative;
+    top: 1px
+}
+
+.cardHeadingBox .review {
+    background: url(/assets/images/sprite-icon/review-sprite-icons.svg) no-repeat left top;
+    background-size: 110px
+}
+
+.cardHeadingBox .icon-rate {
+    background-position: -2px -18.5px
+}
+
+.cardHeadingBox .icon-rated {
+    background-position: -2px -2px
+}
+
+.cardHeadingBox .starRating em {
+    width: 14px;
+    height: 14px;
+    display: inline-block
+}
+
+.cardHeadingBox .starRating em~em {
+    margin-left: 5px
+}
+
+.localityCard .cardSecBox {
+    margin: 15px -15px 0;
+    display: block
+}
+
+.localityCard .cardSecBox .cardSec {
+    width: 100%;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+    border-radius: 0;
+    padding: 15px;
+    height: 66px;
+    display: flex;
+    display: -webkit-flex;
+    align-items: center;
+    justify-content: space-between;
+    flex: none;
+    cursor: pointer;
+    box-shadow: none;
+    border-top: solid 1px #ededed
+}
+
+.localityCard .cardSecBox .buyPrice,.localityCard .cardSecBox .totalProperty {
+    display: flex;
+    display: -webkit-flex;
+    align-items: center;
+    justify-content: space-between;
+    flex: none
+}
+
+.localityCard .cardSecBox .buyPrice {
+    width: 160px
+}
+
+.localityCard .cardSecBox .totalProperty {
+    width: calc(100% - 160px)
+}
+
+.localityCard .cardSecBox .totalProperty .detailPrice {
+    width: 100%
+}
+
+.localityCard .cardSecBox .buyPrice .iconBox {
+    margin-right: 10px;
+    width: 18px;
+    height: 18px;
+    flex: none
+}
+
+.localityCard .cardSecBox .buyPrice {
+    padding-right: 15px;
+    white-space: nowrap;
+    justify-content: flex-start
+}
+
+.localityCard .cardSecBox .buyPrice .detailPrice {
+    width: 100%
+}
+
+.localityCard .cardSecBox .buyPrice .detailPrice span {
+    font-size: 12px;
+    line-height: normal;
+    color: #666;
+    display: block
+}
+
+.localityCard .cardSecBox .buyPrice .detailPrice strong {
+    font-size: 12px;
+    color: #333;
+    line-height: normal;
+    white-space: nowrap
+}
+
+.localityCard .cardSecBox .totalProperty .detailPrice strong {
+    font-size: 12px;
+    color: #5f449b;
+    font-weight: 400;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block
+}
+
+.localityCard .cardSecBox .totalProperty .detailPrice .span {
+    display: flex;
+    display: -webkit-flex;
+    align-items: center;
+    font-size: 12px;
+    color: #5f449b;
+    line-height: normal
+}
+
+.localityCard .cardSecBox .totalProperty .detailPrice .span span {
+    display: block;
+    overflow: hidden;
+    max-width: calc(100% - 20px);
+    text-overflow: ellipsis;
+    white-space: nowrap
+}
+
+.localityCard .cardSecBox .totalProperty .detailPrice .span .icon-angle-right {
+    margin: 1px 0 0 6px;
+    color: #5f449b;
+    width: 14px;
+    height: 14px;
+    display: block;
+    font-weight: 600
+}
+
+.localityCardBox .bxslider .localityCard {
+    margin-left: 8px;
+    width: 330px!important
+}
+
+.localityCardBox .bx-viewport {
+    height: 224px!important
+}
+
+@media screen and (max-width: 1366px) {
+    .localityCardBox .bxslider .localityCard {
+        width:310px!important
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .featuredLocalitiyBox {
+        padding:50px 15px
+    }
+
+    .featuredLocalitiyBox .owl-carousel {
+        padding: 0 15px;
+        margin: 0 -15px;
+        width: auto;
+        display: flex!important;
+        display: -webkit-flex!important;
+        overflow: auto
+    }
+
+    .localityCard {
+        width: 360px
+    }
+
+    .featuredLocalitiyBox .item~.item {
+        margin-left: 8px
+    }
+
+    .featuredLocalitiyBox h2 {
+        padding: 0;
+        text-align: left;
+        font-size: 16px
+    }
+
+    .featuredLocalitiyBox .item {
+        padding-top: 5px
+    }
+
+    .topDevelopersSection~.featuredLocalitiyBox {
+        border-top: 0 solid #f5f5f5
+    }
+
+    .featuredLocalitiyBox {
+        padding: 30px 0 20px;
+        width: 100%
+    }
+
+    .featuredLocalitiyBox h2 {
+        padding: 0 15px
+    }
+
+    .featuredLocalitiyBox .localitySilder {
+        display: flex;
+        display: -webkit-flex;
+        padding: 0 10px;
+        white-space: nowrap;
+        overflow: hidden;
+        overflow-x: auto
+    }
+
+    .localityCard {
+        margin: 15px 5px;
+        width: 310px;
+        flex: none
+    }
+
+    .localityCard .cardSecBox .buyPrice {
+        width: calc(100% - 117px)
+    }
+
+    .localityCard .cardSecBox .totalProperty .detailPrice {
+        max-width: 117px
+    }
+
+    .cardHeadingBox .link strong {
+        font-size: 13px
+    }
+}

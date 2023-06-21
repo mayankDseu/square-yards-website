@@ -1,0 +1,418 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="102.138" height="105.076" viewBox="0 0 102.138 105.076">
+    <defs>
+        <clipPath id="fad691vcga">
+            <path data-name="Rectangle 9766" style="fill:none" d="M0 0h57.801v105.076H0z"/>
+        </clipPath>
+        <clipPath id="yqpx65swfb">
+            <path data-name="Rectangle 9685" style="fill:none" d="M0 0h35.761v89.97H0z"/>
+        </clipPath>
+        <clipPath id="xqiofcqohd">
+            <path data-name="Rectangle 9731" style="fill:none" d="M0 0h17.59v.418H0z"/>
+        </clipPath>
+        <clipPath id="3aodq8mfve">
+            <path data-name="Rectangle 9742" style="fill:none" d="M0 0h14.087v9.012H0z"/>
+        </clipPath>
+        <clipPath id="bbrrvlgk4g">
+            <path data-name="Rectangle 9770" style="fill:none" d="M0 0h27.753v95.114H0z"/>
+        </clipPath>
+        <clipPath id="5i0fsbcgni">
+            <path data-name="Rectangle 9933" style="fill:none" d="M0 0h10.571v4.591H0z"/>
+        </clipPath>
+        <clipPath id="r2s1vvz8rk">
+            <path data-name="Rectangle 9960" style="fill:none" d="M0 0h44.337v102.408H0z"/>
+        </clipPath>
+        <clipPath id="mgi5qr568l">
+            <path data-name="Rectangle 9965" style="fill:none" d="M0 0h8.609v19.894H0z"/>
+        </clipPath>
+        <clipPath id="f3r2236dgm">
+            <path data-name="Rectangle 9963" style="fill:none" d="M0 0h6.751v15.049H0z"/>
+        </clipPath>
+        <clipPath id="vhhzpajahn">
+            <path data-name="Rectangle 9970" style="fill:none" d="M0 0h7.159v16.544H0z"/>
+        </clipPath>
+        <clipPath id="simecahygo">
+            <path data-name="Rectangle 9968" style="fill:none" d="M0 0h5.614v12.515H0z"/>
+        </clipPath>
+        <linearGradient id="qtowt419ic" x1=".197" y1="1.045" x2=".204" y2="1.045" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#db9079"/>
+            <stop offset=".5" stop-color="#f1e0cd"/>
+            <stop offset="1" stop-color="#f2ab9a"/>
+        </linearGradient>
+        <linearGradient id="ecz3su901f" x1="-.859" y1=".909" x2="-.829" y2=".909" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#7c4b58"/>
+            <stop offset=".007" stop-color="#7c4b58"/>
+            <stop offset=".55" stop-color="#a87163"/>
+            <stop offset="1" stop-color="#7c4b58"/>
+        </linearGradient>
+        <linearGradient id="sp7tofsiih" x1=".148" y1="1.004" x2=".153" y2="1.004" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fec89a"/>
+            <stop offset=".499" stop-color="#ffe8cd"/>
+            <stop offset=".971" stop-color="#ffd3aa"/>
+            <stop offset="1" stop-color="#ffd3aa"/>
+        </linearGradient>
+        <linearGradient id="z6xnbsxlaj" x1="-1.685" y1=".874" x2="-1.652" y2=".874" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#d19679"/>
+            <stop offset=".5" stop-color="#dbbdac"/>
+            <stop offset="1" stop-color="#d19679"/>
+        </linearGradient>
+    </defs>
+    <g data-name="Group 17682">
+        <g data-name="Group 17700">
+            <g data-name="Group 17699" style="clip-path:url(#fad691vcga)" transform="translate(44.337)">
+                <path data-name="Rectangle 9683" transform="translate(3.933 5.252)" style="fill:#9b4c4c" d="M0 0h38.141v98.615H0z"/>
+                <g data-name="Group 17683">
+                    <g data-name="Group 17682" style="clip-path:url(#yqpx65swfb)" transform="translate(5.123 7.884)">
+                        <path data-name="Rectangle 9684" transform="rotate(-30 22.492 83.943)" style="fill:url(#qtowt419ic)" d="M0 0h75.955v95.797H0z"/>
+                    </g>
+                </g>
+                <path data-name="Rectangle 9686" transform="translate(2.164 6.166)" style="fill:#9b4c4c" d="M0 0h40.913v1.718H0z"/>
+                <path data-name="Rectangle 9687" transform="translate(2.164 11.476)" style="fill:#9b4c4c" d="M0 0h40.913v1.718H0z"/>
+                <path data-name="Rectangle 9688" transform="translate(2.164 16.786)" style="fill:#9b4c4c" d="M0 0h40.913v1.718H0z"/>
+                <path data-name="Rectangle 9689" transform="translate(2.164 22.095)" style="fill:#9b4c4c" d="M0 0h40.913v1.718H0z"/>
+                <path data-name="Rectangle 9690" transform="translate(2.164 27.405)" style="fill:#9b4c4c" d="M0 0h40.913v1.718H0z"/>
+                <path data-name="Rectangle 9691" transform="translate(2.164 32.715)" style="fill:#9b4c4c" d="M0 0h40.913v1.718H0z"/>
+                <path data-name="Rectangle 9692" transform="translate(2.164 38.024)" style="fill:#9b4c4c" d="M0 0h40.913v1.718H0z"/>
+                <path data-name="Rectangle 9693" transform="translate(2.164 43.333)" style="fill:#9b4c4c" d="M0 0h40.913v1.718H0z"/>
+                <path data-name="Rectangle 9694" transform="translate(2.164 48.643)" style="fill:#9b4c4c" d="M0 0h40.913v1.718H0z"/>
+                <path data-name="Rectangle 9695" transform="translate(2.164 53.953)" style="fill:#9b4c4c" d="M0 0h40.913v1.718H0z"/>
+                <path data-name="Rectangle 9696" transform="translate(2.164 59.263)" style="fill:#9b4c4c" d="M0 0h40.913v1.718H0z"/>
+                <path data-name="Rectangle 9697" transform="translate(2.164 64.572)" style="fill:#9b4c4c" d="M0 0h40.913v1.718H0z"/>
+                <path data-name="Rectangle 9698" transform="translate(2.164 69.882)" style="fill:#9b4c4c" d="M0 0h40.913v1.718H0z"/>
+                <path data-name="Rectangle 9699" transform="translate(2.164 75.191)" style="fill:#9b4c4c" d="M0 0h40.913v1.718H0z"/>
+                <path data-name="Rectangle 9700" transform="translate(2.164 80.501)" style="fill:#9b4c4c" d="M0 0h40.913v1.718H0z"/>
+                <path data-name="Rectangle 9701" transform="translate(2.164 85.811)" style="fill:#9b4c4c" d="M0 0h40.913v1.718H0z"/>
+                <path data-name="Rectangle 9702" transform="translate(2.164 91.12)" style="fill:#9b4c4c" d="M0 0h40.913v1.718H0z"/>
+                <path data-name="Rectangle 9703" transform="translate(2.164 96.43)" style="fill:#9b4c4c" d="M0 0h40.913v1.718H0z"/>
+                <path data-name="Rectangle 9704" transform="translate(9.56 5.252)" style="fill:#b25b5b" d="M0 0h3.77v98.615H0z"/>
+                <path data-name="Rectangle 9705" transform="translate(13.117 5.252)" style="fill:#7f3c3c" d="M0 0h.541v98.615H0z"/>
+                <path data-name="Rectangle 9706" transform="translate(2.164 5.252)" style="fill:#b25b5b" d="M0 0h3.77v98.615H0z"/>
+                <path data-name="Rectangle 9707" transform="translate(5.721 5.252)" style="fill:#7f3c3c" d="M0 0h.541v98.615H0z"/>
+                <path data-name="Rectangle 9708" transform="translate(16.956 5.252)" style="fill:#b25b5b" d="M0 0h3.77v91.178H0z"/>
+                <path data-name="Rectangle 9709" transform="translate(20.512 5.252)" style="fill:#7f3c3c" d="M0 0h.541v91.178H0z"/>
+                <path data-name="Rectangle 9710" transform="translate(24.352 5.252)" style="fill:#b25b5b" d="M0 0h3.77v91.178H0z"/>
+                <path data-name="Rectangle 9711" transform="translate(27.908 5.252)" style="fill:#7f3c3c" d="M0 0h.541v91.178H0z"/>
+                <path data-name="Rectangle 9712" transform="translate(39.144 5.252)" style="fill:#b25b5b" d="M0 0h3.77v98.615H0z"/>
+                <path data-name="Rectangle 9713" transform="translate(42.914 5.252)" style="fill:#7f3c3c" d="M0 0h11.34v98.615H0z"/>
+                <path data-name="Rectangle 9714" transform="translate(31.748 5.252)" style="fill:#b25b5b" d="M0 0h3.77v98.615H0z"/>
+                <path data-name="Rectangle 9715" transform="translate(35.304 5.252)" style="fill:#7f3c3c" d="M0 0h.541v98.615H0z"/>
+                <g data-name="Group 17694">
+                    <g data-name="Group 17693" style="clip-path:url(#fad691vcga)">
+                        <path data-name="Path 21318" d="M57.8 211.608H0a1.21 1.21 0 0 1 1.209-1.208h55.382a1.21 1.21 0 0 1 1.209 1.209" transform="translate(0 -106.532)" style="fill:#392840"/>
+                        <path data-name="Rectangle 9716" transform="translate(6.262 5.252)" style="fill:#9b4c4c" d="M0 0h.527v92.603H0z"/>
+                        <path data-name="Rectangle 9717" transform="translate(9.033 5.252)" style="fill:#9b4c4c" d="M0 0h.527v92.603H0z"/>
+                        <path data-name="Rectangle 9718" transform="translate(13.658 5.252)" style="fill:#9b4c4c" d="M0 0h.527v92.603H0z"/>
+                        <path data-name="Rectangle 9719" transform="translate(16.429 5.252)" style="fill:#9b4c4c" d="M0 0h.527v92.603H0z"/>
+                        <path data-name="Rectangle 9720" transform="translate(21.054 5.252)" style="fill:#9b4c4c" d="M0 0h.527v92.603H0z"/>
+                        <path data-name="Rectangle 9721" transform="translate(23.825 5.252)" style="fill:#9b4c4c" d="M0 0h.527v92.603H0z"/>
+                        <path data-name="Rectangle 9722" transform="translate(28.449 5.252)" style="fill:#9b4c4c" d="M0 0h.527v92.603H0z"/>
+                        <path data-name="Rectangle 9723" transform="translate(31.221 5.252)" style="fill:#9b4c4c" d="M0 0h.527v92.603H0z"/>
+                        <path data-name="Rectangle 9724" transform="translate(35.846 5.252)" style="fill:#9b4c4c" d="M0 0h.527v92.603H0z"/>
+                        <path data-name="Rectangle 9725" transform="translate(38.617 5.252)" style="fill:#9b4c4c" d="M0 0h.527v92.603H0z"/>
+                        <path data-name="Rectangle 9726" transform="translate(1.625 3.882)" style="fill:#e0aa8c" d="M0 0h42.38v2.284H0z"/>
+                        <path data-name="Rectangle 9727" transform="translate(44.005 3.882)" style="fill:#c17f5f" d="M0 0h11.476v2.284H0z"/>
+                        <path data-name="Rectangle 9728" transform="translate(27.031)" style="fill:#d6a870" d="M0 0h13.554v3.882H0z"/>
+                        <path data-name="Rectangle 9729" transform="translate(40.585)" style="fill:#b78b5a" d="M0 0h4.037v3.882H0z"/>
+                        <g data-name="Group 17686" style="mix-blend-mode:multiply;isolation:isolate;opacity:.3">
+                            <g data-name="Group 17685">
+                                <g data-name="Group 17684" style="clip-path:url(#xqiofcqohd)" transform="translate(27.031 .536)">
+                                    <path data-name="Rectangle 9730" style="fill:#b78b5a" d="M0 0h17.59v.418H0z"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g data-name="Group 17689" style="mix-blend-mode:multiply;isolation:isolate;opacity:.3">
+                            <g data-name="Group 17688">
+                                <g data-name="Group 17687" style="clip-path:url(#xqiofcqohd)" transform="translate(27.031 1.732)">
+                                    <path data-name="Rectangle 9732" style="fill:#b78b5a" d="M0 0h17.59v.418H0z"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g data-name="Group 17692" style="mix-blend-mode:multiply;isolation:isolate;opacity:.3">
+                            <g data-name="Group 17691">
+                                <g data-name="Group 17690" style="clip-path:url(#xqiofcqohd)" transform="translate(27.031 2.928)">
+                                    <path data-name="Rectangle 9734" style="fill:#b78b5a" d="M0 0h17.59v.418H0z"/>
+                                </g>
+                            </g>
+                        </g>
+                        <path data-name="Rectangle 9736" transform="translate(17.697 2.317)" style="fill:#b26a4d" d="M0 0h1.66v1.565H0z"/>
+                        <path data-name="Rectangle 9737" transform="translate(19.358 2.317)" style="fill:#9b563e" d="M0 0h.83v1.565H0z"/>
+                        <path data-name="Rectangle 9738" transform="translate(36.654 2.317)" style="fill:#b26a4d" d="M0 0h1.66v1.565H0z"/>
+                        <path data-name="Rectangle 9739" transform="translate(38.314 2.317)" style="fill:#9b563e" d="M0 0h.83v1.565H0z"/>
+                    </g>
+                </g>
+                <g data-name="Group 17696">
+                    <g data-name="Group 17695" style="clip-path:url(#3aodq8mfve)" transform="translate(15.659 94.502)">
+                        <path data-name="Rectangle 9741" transform="rotate(-30 2.253 8.408)" style="fill:url(#ecz3su901f)" d="M0 0h16.706v14.848H0z"/>
+                    </g>
+                </g>
+                <g data-name="Group 17698">
+                    <g data-name="Group 17697" style="clip-path:url(#fad691vcga)">
+                        <path data-name="Rectangle 9743" transform="translate(13.892 92.679)" style="fill:#d09266" d="M0 0h17.036v1.565H0z"/>
+                        <path data-name="Rectangle 9744" transform="translate(30.929 92.679)" style="fill:#a3714f" d="M0 0h.514v1.565H0z"/>
+                        <path data-name="Rectangle 9745" transform="translate(14.185 94.245)" style="fill:#b7a69a" d="M0 0h16.891v.516H0z"/>
+                        <path data-name="Rectangle 9746" transform="translate(14.185 103.351)" style="fill:#b7a69a" d="M0 0h16.891v.516H0z"/>
+                        <path data-name="Rectangle 9747" transform="translate(15.373 94.245)" style="fill:#b7a69a" d="M0 0h.575v9.622H0z"/>
+                        <path data-name="Rectangle 9748" transform="translate(14.185 94.245)" style="fill:#c4b7ae" d="M0 0h.898v9.622H0z"/>
+                        <path data-name="Rectangle 9749" transform="translate(15.083 94.245)" style="fill:#91837a" d="M0 0h.289v9.622H0z"/>
+                        <path data-name="Rectangle 9750" transform="translate(19.335 94.245)" style="fill:#b7a69a" d="M0 0h.575v9.622H0z"/>
+                        <path data-name="Rectangle 9751" transform="translate(17.572 94.245)" style="fill:#b7a69a" d="M0 0h.575v9.622H0z"/>
+                        <path data-name="Rectangle 9752" transform="translate(21.534 94.245)" style="fill:#b7a69a" d="M0 0h.575v9.622H0z"/>
+                        <path data-name="Rectangle 9753" transform="translate(25.496 94.245)" style="fill:#b7a69a" d="M0 0h.575v9.622H0z"/>
+                        <path data-name="Rectangle 9754" transform="translate(29.458 94.245)" style="fill:#b7a69a" d="M0 0h.575v9.622H0z"/>
+                        <path data-name="Rectangle 9755" transform="translate(18.147 94.245)" style="fill:#c4b7ae" d="M0 0h.898v9.622H0z"/>
+                        <path data-name="Rectangle 9756" transform="translate(19.046 94.245)" style="fill:#91837a" d="M0 0h.289v9.622H0z"/>
+                        <path data-name="Rectangle 9757" transform="translate(23.297 94.245)" style="fill:#b7a69a" d="M0 0h.575v9.622H0z"/>
+                        <path data-name="Rectangle 9758" transform="translate(22.109 94.245)" style="fill:#c4b7ae" d="M0 0h.898v9.622H0z"/>
+                        <path data-name="Rectangle 9759" transform="translate(23.007 94.245)" style="fill:#91837a" d="M0 0h.289v9.622H0z"/>
+                        <path data-name="Rectangle 9760" transform="translate(27.259 94.245)" style="fill:#b7a69a" d="M0 0h.575v9.622H0z"/>
+                        <path data-name="Rectangle 9761" transform="translate(26.071 94.245)" style="fill:#c4b7ae" d="M0 0h.898v9.622H0z"/>
+                        <path data-name="Rectangle 9762" transform="translate(26.969 94.245)" style="fill:#91837a" d="M0 0h.289v9.622H0z"/>
+                        <path data-name="Rectangle 9763" transform="translate(30.033 94.245)" style="fill:#c4b7ae" d="M0 0h.898v9.622H0z"/>
+                        <path data-name="Rectangle 9764" transform="translate(30.932 94.245)" style="fill:#91837a" d="M0 0h.289v9.622H0z"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g data-name="Group 17707">
+            <path data-name="Rectangle 9767" transform="translate(10.235 6.447)" style="fill:#d8a9a3" d="M0 0h29.9v97.722H0z"/>
+            <path data-name="Rectangle 9768" transform="translate(3.663 6.447)" style="fill:#b7807b" d="M0 0h6.572v97.722H0z"/>
+            <g data-name="Group 17702">
+                <g data-name="Group 17701" style="clip-path:url(#bbrrvlgk4g)" transform="translate(11.308 9.055)">
+                    <path data-name="Rectangle 9769" transform="rotate(-30 23.78 88.744)" style="fill:url(#sp7tofsiih)" d="M0 0h71.592v96.248H0z"/>
+                </g>
+            </g>
+            <path data-name="Rectangle 9771" transform="translate(10.235 12.01)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9772" transform="translate(10.235 16.096)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9773" transform="translate(10.235 20.182)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9774" transform="translate(10.235 24.267)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9775" transform="translate(10.235 28.352)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9776" transform="translate(10.235 32.439)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9777" transform="translate(10.235 36.524)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9778" transform="translate(10.235 40.61)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9779" transform="translate(10.235 44.695)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9780" transform="translate(10.235 48.781)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9781" transform="translate(10.235 52.867)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9782" transform="translate(10.235 56.952)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9783" transform="translate(10.235 61.038)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9784" transform="translate(10.235 65.124)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9785" transform="translate(10.235 69.209)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9786" transform="translate(10.235 73.295)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9787" transform="translate(10.235 77.381)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9788" transform="translate(10.235 81.466)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9789" transform="translate(10.235 85.552)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9790" transform="translate(10.235 89.638)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9791" transform="translate(10.235 93.723)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9792" transform="translate(10.235 97.809)" style="fill:#d8a9a3" d="M0 0h29.9v1.13H0z"/>
+            <path data-name="Rectangle 9793" transform="translate(15.914 9.055)" style="fill:#d8a9a3" d="M0 0h.116v94.724H0z"/>
+            <path data-name="Rectangle 9794" transform="translate(11.308 9.055)" style="fill:#d8a9a3" d="M0 0h.116v94.724H0z"/>
+            <path data-name="Rectangle 9795" transform="translate(20.52 9.055)" style="fill:#d8a9a3" d="M0 0h.116v94.724H0z"/>
+            <path data-name="Rectangle 9796" transform="translate(25.127 9.055)" style="fill:#d8a9a3" d="M0 0h.116v94.724H0z"/>
+            <path data-name="Rectangle 9797" transform="translate(29.733 9.055)" style="fill:#d8a9a3" d="M0 0h.116v94.724H0z"/>
+            <path data-name="Rectangle 9798" transform="translate(34.339 9.055)" style="fill:#d8a9a3" d="M0 0h.116v94.724H0z"/>
+            <path data-name="Rectangle 9799" transform="translate(38.945 9.055)" style="fill:#d8a9a3" d="M0 0h.116v94.724H0z"/>
+            <path data-name="Rectangle 9800" transform="translate(15.74 9.054)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9801" transform="translate(20.347 9.054)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9802" transform="translate(24.953 9.054)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9803" transform="translate(29.559 9.054)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9804" transform="translate(34.165 9.054)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9805" transform="translate(38.772 9.054)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9806" transform="translate(15.74 13.14)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9807" transform="translate(20.347 13.14)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9808" transform="translate(24.953 13.14)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9809" transform="translate(29.559 13.14)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9810" transform="translate(34.165 13.14)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9811" transform="translate(38.772 13.14)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9812" transform="translate(15.74 17.226)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9813" transform="translate(20.347 17.226)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9814" transform="translate(24.953 17.226)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9815" transform="translate(29.559 17.226)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9816" transform="translate(34.165 17.226)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9817" transform="translate(38.772 17.226)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9818" transform="translate(15.74 21.311)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9819" transform="translate(20.347 21.311)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9820" transform="translate(24.953 21.311)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9821" transform="translate(29.559 21.311)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9822" transform="translate(34.165 21.311)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9823" transform="translate(38.772 21.311)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9824" transform="translate(15.74 25.397)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9825" transform="translate(20.347 25.397)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9826" transform="translate(24.953 25.397)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9827" transform="translate(29.559 25.397)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9828" transform="translate(34.165 25.397)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9829" transform="translate(38.772 25.397)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9830" transform="translate(15.74 29.483)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9831" transform="translate(20.347 29.483)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9832" transform="translate(24.953 29.483)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9833" transform="translate(29.559 29.483)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9834" transform="translate(34.165 29.483)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9835" transform="translate(38.772 29.483)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9836" transform="translate(15.74 33.568)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9837" transform="translate(20.347 33.568)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9838" transform="translate(24.953 33.568)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9839" transform="translate(29.559 33.568)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9840" transform="translate(34.165 33.568)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9841" transform="translate(38.772 33.568)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9842" transform="translate(15.74 37.654)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9843" transform="translate(20.347 37.654)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9844" transform="translate(24.953 37.654)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9845" transform="translate(29.559 37.654)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9846" transform="translate(34.165 37.654)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9847" transform="translate(38.772 37.654)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9848" transform="translate(15.74 41.74)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9849" transform="translate(20.347 41.74)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9850" transform="translate(24.953 41.74)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9851" transform="translate(29.559 41.74)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9852" transform="translate(34.165 41.74)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9853" transform="translate(38.772 41.74)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9854" transform="translate(15.74 45.825)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9855" transform="translate(20.347 45.825)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9856" transform="translate(24.953 45.825)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9857" transform="translate(29.559 45.825)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9858" transform="translate(34.165 45.825)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9859" transform="translate(38.772 45.825)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9860" transform="translate(15.74 49.911)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9861" transform="translate(20.347 49.911)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9862" transform="translate(24.953 49.911)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9863" transform="translate(29.559 49.911)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9864" transform="translate(34.165 49.911)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9865" transform="translate(38.772 49.911)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9866" transform="translate(15.74 53.997)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9867" transform="translate(20.347 53.997)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9868" transform="translate(24.953 53.997)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9869" transform="translate(29.559 53.997)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9870" transform="translate(34.165 53.997)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9871" transform="translate(38.772 53.997)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9872" transform="translate(15.74 58.082)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9873" transform="translate(20.347 58.082)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9874" transform="translate(24.953 58.082)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9875" transform="translate(29.559 58.082)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9876" transform="translate(34.165 58.082)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9877" transform="translate(38.772 58.082)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9878" transform="translate(15.74 62.168)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9879" transform="translate(20.347 62.168)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9880" transform="translate(24.953 62.168)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9881" transform="translate(29.559 62.168)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9882" transform="translate(34.165 62.168)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9883" transform="translate(38.772 62.168)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9884" transform="translate(15.74 66.254)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9885" transform="translate(20.347 66.254)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9886" transform="translate(24.953 66.254)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9887" transform="translate(29.559 66.254)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9888" transform="translate(34.165 66.254)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9889" transform="translate(38.772 66.254)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9890" transform="translate(15.74 70.339)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9891" transform="translate(20.347 70.339)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9892" transform="translate(24.953 70.339)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9893" transform="translate(29.559 70.339)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9894" transform="translate(34.165 70.339)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9895" transform="translate(38.772 70.339)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9896" transform="translate(15.74 74.425)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9897" transform="translate(20.347 74.425)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9898" transform="translate(24.953 74.425)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9899" transform="translate(29.559 74.425)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9900" transform="translate(34.165 74.425)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9901" transform="translate(38.772 74.425)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9902" transform="translate(15.74 78.511)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9903" transform="translate(20.347 78.511)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9904" transform="translate(24.953 78.511)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9905" transform="translate(29.559 78.511)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9906" transform="translate(34.165 78.511)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9907" transform="translate(38.772 78.511)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9908" transform="translate(15.74 82.596)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9909" transform="translate(20.347 82.596)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9910" transform="translate(24.953 82.596)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9911" transform="translate(29.559 82.596)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9912" transform="translate(34.165 82.596)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9913" transform="translate(38.772 82.596)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9914" transform="translate(15.74 86.682)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9915" transform="translate(20.347 86.682)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9916" transform="translate(24.953 86.682)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9917" transform="translate(29.559 86.682)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9918" transform="translate(34.165 86.682)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9919" transform="translate(38.772 86.682)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9920" transform="translate(15.74 90.768)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9921" transform="translate(20.347 90.768)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9922" transform="translate(24.953 90.768)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9923" transform="translate(29.559 90.768)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9924" transform="translate(34.165 90.768)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9925" transform="translate(38.772 90.768)" style="fill:#b7807b" d="M0 0h.174v2.956H0z"/>
+            <path data-name="Rectangle 9926" transform="translate(15.74 94.854)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9927" transform="translate(20.347 94.854)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9928" transform="translate(24.953 94.854)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9929" transform="translate(29.559 94.854)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9930" transform="translate(34.165 94.854)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <path data-name="Rectangle 9931" transform="translate(38.772 94.854)" style="fill:#b7807b" d="M0 0h.174v2.955H0z"/>
+            <g data-name="Group 17704">
+                <g data-name="Group 17703" style="clip-path:url(#5i0fsbcgni)" transform="translate(19.728 99.313)">
+                    <path data-name="Rectangle 9932" transform="rotate(-30 1.148 4.284)" style="fill:url(#z6xnbsxlaj)" d="M0 0h11.45v9.262H0z"/>
+                </g>
+            </g>
+            <path data-name="Rectangle 9934" transform="translate(18.841 97.945)" style="fill:#a55b41" d="M0 0h12.784v1.175H0z"/>
+            <path data-name="Rectangle 9935" transform="translate(18.455 97.945)" style="fill:#8c4029" d="M0 0h.386v1.175H0z"/>
+            <path data-name="Rectangle 9936" transform="translate(18.73 99.12)" style="fill:#b7a69a" d="M0 0h12.676v.387H0z"/>
+            <path data-name="Rectangle 9937" transform="translate(18.73 103.782)" style="fill:#b7a69a" d="M0 0h12.676v.387H0z"/>
+            <path data-name="Rectangle 9938" transform="translate(30.082 99.12)" style="fill:#b7a69a" d="M0 0h.432v5.049H0z"/>
+            <path data-name="Rectangle 9939" transform="translate(30.731 99.12)" style="fill:#c4b7ae" d="M0 0h.674v5.049H0z"/>
+            <path data-name="Rectangle 9940" transform="translate(30.514 99.12)" style="fill:#91837a" d="M0 0h.217v5.049H0z"/>
+            <path data-name="Rectangle 9941" transform="translate(27.109 99.12)" style="fill:#b7a69a" d="M0 0h.432v5.049H0z"/>
+            <path data-name="Rectangle 9942" transform="translate(28.432 99.12)" style="fill:#b7a69a" d="M0 0h.432v5.049H0z"/>
+            <path data-name="Rectangle 9943" transform="translate(25.459 99.12)" style="fill:#b7a69a" d="M0 0h.432v5.049H0z"/>
+            <path data-name="Rectangle 9944" transform="translate(22.486 99.12)" style="fill:#b7a69a" d="M0 0h.432v5.049H0z"/>
+            <path data-name="Rectangle 9945" transform="translate(19.513 99.12)" style="fill:#b7a69a" d="M0 0h.432v5.049H0z"/>
+            <path data-name="Rectangle 9946" transform="translate(27.758 99.12)" style="fill:#c4b7ae" d="M0 0h.674v5.049H0z"/>
+            <path data-name="Rectangle 9947" transform="translate(27.541 99.12)" style="fill:#91837a" d="M0 0h.217v5.049H0z"/>
+            <path data-name="Rectangle 9948" transform="translate(24.136 99.12)" style="fill:#b7a69a" d="M0 0h.432v5.049H0z"/>
+            <path data-name="Rectangle 9949" transform="translate(24.785 99.12)" style="fill:#c4b7ae" d="M0 0h.674v5.049H0z"/>
+            <path data-name="Rectangle 9950" transform="translate(24.568 99.12)" style="fill:#91837a" d="M0 0h.217v5.049H0z"/>
+            <path data-name="Rectangle 9951" transform="translate(21.163 99.12)" style="fill:#b7a69a" d="M0 0h.432v5.049H0z"/>
+            <path data-name="Rectangle 9952" transform="translate(21.811 99.12)" style="fill:#c4b7ae" d="M0 0h.674v5.049H0z"/>
+            <path data-name="Rectangle 9953" transform="translate(21.594 99.12)" style="fill:#91837a" d="M0 0h.217v5.049H0z"/>
+            <path data-name="Rectangle 9954" transform="translate(18.838 99.12)" style="fill:#c4b7ae" d="M0 0h.674v5.049H0z"/>
+            <path data-name="Rectangle 9955" transform="translate(18.621 99.12)" style="fill:#91837a" d="M0 0h.217v5.049H0z"/>
+            <g data-name="Group 17706">
+                <g data-name="Group 17705" style="clip-path:url(#r2s1vvz8rk)" transform="translate(0 2.668)">
+                    <path data-name="Path 21319" d="M44.337 274.9H0a.908.908 0 0 1 .908-.908h42.521a.908.908 0 0 1 .908.908" transform="translate(0 -172.488)" style="fill:#392840"/>
+                    <path data-name="Rectangle 9956" transform="translate(15.994)" style="fill:#eaae96" d="M0 0h8.376v3.778H0z"/>
+                    <path data-name="Rectangle 9957" transform="translate(13.254)" style="fill:#af6751" d="M0 0h2.818v3.778H0z"/>
+                    <path data-name="Rectangle 9958" transform="translate(20.981 2.456)" style="fill:#d6a870" d="M0 0h6.632v1.323H0z"/>
+                    <path data-name="Rectangle 9959" transform="translate(18.812 2.456)" style="fill:#b78b5a" d="M0 0h2.231v1.323H0z"/>
+                </g>
+            </g>
+        </g>
+        <g data-name="Group 17714">
+            <g data-name="Group 17713" style="clip-path:url(#mgi5qr568l)" transform="translate(81.208 85.182)">
+                <path data-name="Rectangle 9961" transform="translate(3.924 14.304)" style="fill:#a87756" d="M0 0h.583v5.59H0z"/>
+                <path data-name="Rectangle 9962" transform="translate(4.506 14.304)" style="fill:#845b40" d="M0 0h.178v5.59H0z"/>
+                <g data-name="Group 17712">
+                    <g data-name="Group 17711" style="clip-path:url(#mgi5qr568l)">
+                        <path data-name="Path 21320" d="M8.609 10.744a4.3 4.3 0 1 1-8.609 0C0 8.367 1.927 0 4.3 0s4.3 8.367 4.3 10.744" style="fill:#637f39"/>
+                        <g data-name="Group 17710" style="opacity:.25;mix-blend-mode:multiply;isolation:isolate">
+                            <g data-name="Group 17709">
+                                <g data-name="Group 17708" style="clip-path:url(#f3r2236dgm)" transform="translate(1.858)">
+                                    <path data-name="Path 21321" d="M5.437 0a1.038 1.038 0 0 0-.263.038c1.8 2.039 3.119 8.1 3.119 10.063a4.29 4.29 0 0 1-5.3 4.183 4.3 4.3 0 0 0 6.751-3.54C9.742 8.367 7.815 0 5.437 0" transform="translate(-2.991)" style="fill:#637f39"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g data-name="Group 17721">
+            <g data-name="Group 17720" style="clip-path:url(#vhhzpajahn)" transform="translate(10.841 88.532)">
+                <path data-name="Rectangle 9966" transform="translate(3.263 11.895)" style="fill:#a87756" d="M0 0h.485v4.649H0z"/>
+                <path data-name="Rectangle 9967" transform="translate(3.747 11.895)" style="fill:#845b40" d="M0 0h.148v4.649H0z"/>
+                <g data-name="Group 17719">
+                    <g data-name="Group 17718" style="clip-path:url(#vhhzpajahn)">
+                        <path data-name="Path 21322" d="M7.159 8.935a3.58 3.58 0 0 1-7.159 0C0 6.958 1.6 0 3.58 0s3.58 6.958 3.58 8.935" style="fill:#637f39"/>
+                        <g data-name="Group 17717" style="opacity:.25;mix-blend-mode:multiply;isolation:isolate">
+                            <g data-name="Group 17716">
+                                <g data-name="Group 17715" style="clip-path:url(#simecahygo)" transform="translate(1.545)">
+                                    <path data-name="Path 21323" d="M5.025 0a.863.863 0 0 0-.219.032C6.3 1.727 7.4 6.764 7.4 8.4a3.567 3.567 0 0 1-4.409 3.479A3.578 3.578 0 0 0 8.6 8.935C8.6 6.958 7 0 5.025 0" transform="translate(-2.991)" style="fill:#637f39"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
